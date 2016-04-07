@@ -1,0 +1,35 @@
+﻿{
+  "version": "1.0.0-*",
+  "description": "DevSprintReview Console Application",
+  "authors": [ "Andre" ],
+  "tags": [ "" ],
+  "projectUrl": "",
+  "licenseUrl": "",
+
+  "compilationOptions": {
+    "emitEntryPoint": true
+  },
+
+  "dependencies": {
+    "Mini-Biggy": "2.0.0-beta3"
+  },
+
+  "commands": {
+    "debug": "DevSprintReview \"C:\\Users\\Andre\\OneDrive\\Documentos\\Way2\\Gestao\\Sprint Review\\Sprint Review - PDC - 63.csv\"",
+    "review": "DevSprintReview"
+  },
+
+  "frameworks": {
+    "dnx451": { },
+    "dnxcore50": {
+      "dependencies": {
+        "Microsoft.CSharp": "4.0.1-beta-23516",
+        "System.Collections": "4.0.11-beta-23516",
+        "System.Console": "4.0.0-beta-23516",
+        "System.Linq": "4.0.1-beta-23516",
+        "System.Threading": "4.0.11-beta-23516",
+        "System.Text.RegularExpressions": "4.0.11-beta-23516"
+      }
+    }
+  }
+}
