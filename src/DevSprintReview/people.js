@@ -132,7 +132,7 @@
   },
   {
       "Name": "Heloisa Gloria",
-      "Email": "heloisa.gloria@way2.com.br",
+      "Email": "heloisa@way2.com.br",
       "Area": "Projetos"
   },
   {
@@ -143,6 +143,17 @@
   {
       "Name": "Luis Hioka",
       "Email": "luis.hioka@way2.com.br",
+      "Area": "SX"
+  },
+  {
+      "Name": "Caliel Costa",
+      "Email": "caliel.costa@way2.com.br",
+      "Area": "Desenvolvimento"
+  }
+  ,
+  {
+      "Name": "Guilherme Grança",
+      "Email": "guilherme.franca@way2.com.br",
       "Area": "SX"
   }
 ]
