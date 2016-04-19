@@ -15,32 +15,38 @@
           {
             "$id": "4",
             "Reviewed": "Bernard Ribeiro",
-            "Grade": 3
+            "Grade": 3,
+            "Comment": null
           },
           {
             "$id": "5",
             "Reviewed": "Gecieane Junges",
-            "Grade": -1
+            "Grade": -1,
+            "Comment": null
           },
           {
             "$id": "6",
             "Reviewed": "Marcel de Castilho",
-            "Grade": 4
+            "Grade": 4,
+            "Comment": null
           },
           {
             "$id": "7",
             "Reviewed": "Michel Barbosa",
-            "Grade": 4
+            "Grade": 4,
+            "Comment": null
           },
           {
             "$id": "8",
             "Reviewed": "Ricardo Oliveira",
-            "Grade": 4
+            "Grade": 4,
+            "Comment": null
           },
           {
             "$id": "9",
             "Reviewed": "Thiago Cerutti",
-            "Grade": 4
+            "Grade": 4,
+            "Comment": null
           }
         ],
         "Comment": ""
@@ -57,32 +63,38 @@
           {
             "$id": "12",
             "Reviewed": "Bernard Ribeiro",
-            "Grade": -1
+            "Grade": -1,
+            "Comment": null
           },
           {
             "$id": "13",
             "Reviewed": "Gecieane Junges",
-            "Grade": -1
+            "Grade": -1,
+            "Comment": null
           },
           {
             "$id": "14",
             "Reviewed": "Marcel de Castilho",
-            "Grade": 3
+            "Grade": 3,
+            "Comment": null
           },
           {
             "$id": "15",
             "Reviewed": "Michel Barbosa",
-            "Grade": -1
+            "Grade": -1,
+            "Comment": null
           },
           {
             "$id": "16",
             "Reviewed": "Ricardo Oliveira",
-            "Grade": -1
+            "Grade": -1,
+            "Comment": null
           },
           {
             "$id": "17",
             "Reviewed": "Thiago Cerutti",
-            "Grade": 3
+            "Grade": 3,
+            "Comment": null
           }
         ],
         "Comment": "Cheguei na metade para o final da DEMO no meio da apresentação do Marcel. Achei muito boa a atuação dele.O único problema é que infelizmente ainda está gerando muita dúvida na geração das versões. Acredito que em pouco tempo este problema vai estar sanado.Senti o clima melhor, acredito que o time está com mais garra e determinação.É isso aí.. Sucesso!"
@@ -99,32 +111,38 @@
           {
             "$id": "20",
             "Reviewed": "Bernard Ribeiro",
-            "Grade": 4
+            "Grade": 4,
+            "Comment": null
           },
           {
             "$id": "21",
             "Reviewed": "Gecieane Junges",
-            "Grade": -1
+            "Grade": -1,
+            "Comment": null
           },
           {
             "$id": "22",
             "Reviewed": "Marcel de Castilho",
-            "Grade": 4
+            "Grade": 4,
+            "Comment": null
           },
           {
             "$id": "23",
             "Reviewed": "Michel Barbosa",
-            "Grade": 4
+            "Grade": 4,
+            "Comment": null
           },
           {
             "$id": "24",
             "Reviewed": "Ricardo Oliveira",
-            "Grade": 4
+            "Grade": 4,
+            "Comment": null
           },
           {
             "$id": "25",
             "Reviewed": "Thiago Cerutti",
-            "Grade": 4
+            "Grade": 4,
+            "Comment": null
           }
         ],
         "Comment": "O time se mostrou comprometido com a entrega do valor acordado. Parabéns ao time!"
@@ -141,32 +159,38 @@
           {
             "$id": "28",
             "Reviewed": "Bernard Ribeiro",
-            "Grade": 3
+            "Grade": 3,
+            "Comment": null
           },
           {
             "$id": "29",
             "Reviewed": "Gecieane Junges",
-            "Grade": -1
+            "Grade": -1,
+            "Comment": null
           },
           {
             "$id": "30",
             "Reviewed": "Marcel de Castilho",
-            "Grade": 3
+            "Grade": 3,
+            "Comment": null
           },
           {
             "$id": "31",
             "Reviewed": "Michel Barbosa",
-            "Grade": 2
+            "Grade": 2,
+            "Comment": null
           },
           {
             "$id": "32",
             "Reviewed": "Ricardo Oliveira",
-            "Grade": 3
+            "Grade": 3,
+            "Comment": null
           },
           {
             "$id": "33",
             "Reviewed": "Thiago Cerutti",
-            "Grade": 3
+            "Grade": 3,
+            "Comment": null
           }
         ],
         "Comment": ""
@@ -183,32 +207,38 @@
           {
             "$id": "36",
             "Reviewed": "Bernard Ribeiro",
-            "Grade": 3
+            "Grade": 3,
+            "Comment": null
           },
           {
             "$id": "37",
             "Reviewed": "Gecieane Junges",
-            "Grade": -1
+            "Grade": -1,
+            "Comment": null
           },
           {
             "$id": "38",
             "Reviewed": "Marcel de Castilho",
-            "Grade": 3
+            "Grade": 3,
+            "Comment": null
           },
           {
             "$id": "39",
             "Reviewed": "Michel Barbosa",
-            "Grade": 3
+            "Grade": 3,
+            "Comment": null
           },
           {
             "$id": "40",
             "Reviewed": "Ricardo Oliveira",
-            "Grade": 3
+            "Grade": 3,
+            "Comment": null
           },
           {
             "$id": "41",
             "Reviewed": "Thiago Cerutti",
-            "Grade": -1
+            "Grade": -1,
+            "Comment": null
           }
         ],
         "Comment": ""
@@ -225,32 +255,38 @@
           {
             "$id": "44",
             "Reviewed": "Bernard Ribeiro",
-            "Grade": 3
+            "Grade": 3,
+            "Comment": null
           },
           {
             "$id": "45",
             "Reviewed": "Gecieane Junges",
-            "Grade": -1
+            "Grade": -1,
+            "Comment": null
           },
           {
             "$id": "46",
             "Reviewed": "Marcel de Castilho",
-            "Grade": 3
+            "Grade": 3,
+            "Comment": null
           },
           {
             "$id": "47",
             "Reviewed": "Michel Barbosa",
-            "Grade": 3
+            "Grade": 3,
+            "Comment": null
           },
           {
             "$id": "48",
             "Reviewed": "Ricardo Oliveira",
-            "Grade": 3
+            "Grade": 3,
+            "Comment": null
           },
           {
             "$id": "49",
             "Reviewed": "Thiago Cerutti",
-            "Grade": 3
+            "Grade": 3,
+            "Comment": null
           }
         ],
         "Comment": ""
@@ -267,32 +303,38 @@
           {
             "$id": "52",
             "Reviewed": "Bernard Ribeiro",
-            "Grade": 3
+            "Grade": 3,
+            "Comment": null
           },
           {
             "$id": "53",
             "Reviewed": "Gecieane Junges",
-            "Grade": -1
+            "Grade": -1,
+            "Comment": null
           },
           {
             "$id": "54",
             "Reviewed": "Marcel de Castilho",
-            "Grade": 3
+            "Grade": 3,
+            "Comment": null
           },
           {
             "$id": "55",
             "Reviewed": "Michel Barbosa",
-            "Grade": 3
+            "Grade": 3,
+            "Comment": null
           },
           {
             "$id": "56",
             "Reviewed": "Ricardo Oliveira",
-            "Grade": 3
+            "Grade": 3,
+            "Comment": null
           },
           {
             "$id": "57",
             "Reviewed": "Thiago Cerutti",
-            "Grade": 3
+            "Grade": 3,
+            "Comment": null
           }
         ],
         "Comment": "O time foi bem equilibrado... todo mundo ajudou e por alguns detalhes não conseguimos entregar tudo. Valeu o esforço!"
@@ -309,32 +351,38 @@
           {
             "$id": "60",
             "Reviewed": "Bernard Ribeiro",
-            "Grade": 3
+            "Grade": 3,
+            "Comment": null
           },
           {
             "$id": "61",
             "Reviewed": "Gecieane Junges",
-            "Grade": -1
+            "Grade": -1,
+            "Comment": null
           },
           {
             "$id": "62",
             "Reviewed": "Marcel de Castilho",
-            "Grade": 4
+            "Grade": 4,
+            "Comment": null
           },
           {
             "$id": "63",
             "Reviewed": "Michel Barbosa",
-            "Grade": 4
+            "Grade": 4,
+            "Comment": null
           },
           {
             "$id": "64",
             "Reviewed": "Ricardo Oliveira",
-            "Grade": 4
+            "Grade": 4,
+            "Comment": null
           },
           {
             "$id": "65",
             "Reviewed": "Thiago Cerutti",
-            "Grade": 4
+            "Grade": 4,
+            "Comment": null
           }
         ],
         "Comment": ""
@@ -351,32 +399,38 @@
           {
             "$id": "68",
             "Reviewed": "Bernard Ribeiro",
-            "Grade": 2
+            "Grade": 2,
+            "Comment": null
           },
           {
             "$id": "69",
             "Reviewed": "Gecieane Junges",
-            "Grade": -1
+            "Grade": -1,
+            "Comment": null
           },
           {
             "$id": "70",
             "Reviewed": "Marcel de Castilho",
-            "Grade": 4
+            "Grade": 4,
+            "Comment": null
           },
           {
             "$id": "71",
             "Reviewed": "Michel Barbosa",
-            "Grade": 3
+            "Grade": 3,
+            "Comment": null
           },
           {
             "$id": "72",
             "Reviewed": "Ricardo Oliveira",
-            "Grade": 3
+            "Grade": 3,
+            "Comment": null
           },
           {
             "$id": "73",
             "Reviewed": "Thiago Cerutti",
-            "Grade": 3
+            "Grade": 3,
+            "Comment": null
           }
         ],
         "Comment": "A participação do Gabriel diretamente em 2 issues da sprint do time do PIM-App foi primordial pra entrega do compromisso. Valeu Gabriel!"
@@ -393,32 +447,38 @@
           {
             "$id": "76",
             "Reviewed": "Bernard Ribeiro",
-            "Grade": 2
+            "Grade": 2,
+            "Comment": null
           },
           {
             "$id": "77",
             "Reviewed": "Gecieane Junges",
-            "Grade": -1
+            "Grade": -1,
+            "Comment": null
           },
           {
             "$id": "78",
             "Reviewed": "Marcel de Castilho",
-            "Grade": 3
+            "Grade": 3,
+            "Comment": null
           },
           {
             "$id": "79",
             "Reviewed": "Michel Barbosa",
-            "Grade": 3
+            "Grade": 3,
+            "Comment": null
           },
           {
             "$id": "80",
             "Reviewed": "Ricardo Oliveira",
-            "Grade": 3
+            "Grade": 3,
+            "Comment": null
           },
           {
             "$id": "81",
             "Reviewed": "Thiago Cerutti",
-            "Grade": 2
+            "Grade": 2,
+            "Comment": null
           }
         ],
         "Comment": ""
@@ -435,32 +495,38 @@
           {
             "$id": "84",
             "Reviewed": "Bernard Ribeiro",
-            "Grade": 3
+            "Grade": 3,
+            "Comment": null
           },
           {
             "$id": "85",
             "Reviewed": "Gecieane Junges",
-            "Grade": -1
+            "Grade": -1,
+            "Comment": null
           },
           {
             "$id": "86",
             "Reviewed": "Marcel de Castilho",
-            "Grade": 4
+            "Grade": 4,
+            "Comment": null
           },
           {
             "$id": "87",
             "Reviewed": "Michel Barbosa",
-            "Grade": 3
+            "Grade": 3,
+            "Comment": null
           },
           {
             "$id": "88",
             "Reviewed": "Ricardo Oliveira",
-            "Grade": 3
+            "Grade": 3,
+            "Comment": null
           },
           {
             "$id": "89",
             "Reviewed": "Thiago Cerutti",
-            "Grade": 3
+            "Grade": 3,
+            "Comment": null
           }
         ],
         "Comment": ""
@@ -477,32 +543,38 @@
           {
             "$id": "92",
             "Reviewed": "Bernard Ribeiro",
-            "Grade": 2
+            "Grade": 2,
+            "Comment": null
           },
           {
             "$id": "93",
             "Reviewed": "Gecieane Junges",
-            "Grade": -1
+            "Grade": -1,
+            "Comment": null
           },
           {
             "$id": "94",
             "Reviewed": "Marcel de Castilho",
-            "Grade": 4
+            "Grade": 4,
+            "Comment": null
           },
           {
             "$id": "95",
             "Reviewed": "Michel Barbosa",
-            "Grade": 4
+            "Grade": 4,
+            "Comment": null
           },
           {
             "$id": "96",
             "Reviewed": "Ricardo Oliveira",
-            "Grade": 4
+            "Grade": 4,
+            "Comment": null
           },
           {
             "$id": "97",
             "Reviewed": "Thiago Cerutti",
-            "Grade": 4
+            "Grade": 4,
+            "Comment": null
           }
         ],
         "Comment": "Sprint bem corrido por conta dos anemométricos. Porém a boa organização e comunicação do time colaboraram para a entrega do compromisso."
@@ -519,32 +591,38 @@
           {
             "$id": "100",
             "Reviewed": "Bernard Ribeiro",
-            "Grade": 3
+            "Grade": 3,
+            "Comment": null
           },
           {
             "$id": "101",
             "Reviewed": "Gecieane Junges",
-            "Grade": -1
+            "Grade": -1,
+            "Comment": null
           },
           {
             "$id": "102",
             "Reviewed": "Marcel de Castilho",
-            "Grade": 3
+            "Grade": 3,
+            "Comment": null
           },
           {
             "$id": "103",
             "Reviewed": "Michel Barbosa",
-            "Grade": 3
+            "Grade": 3,
+            "Comment": null
           },
           {
             "$id": "104",
             "Reviewed": "Ricardo Oliveira",
-            "Grade": 3
+            "Grade": 3,
+            "Comment": null
           },
           {
             "$id": "105",
             "Reviewed": "Thiago Cerutti",
-            "Grade": 3
+            "Grade": 3,
+            "Comment": null
           }
         ],
         "Comment": ""
@@ -561,32 +639,38 @@
           {
             "$id": "108",
             "Reviewed": "Bernard Ribeiro",
-            "Grade": 3
+            "Grade": 3,
+            "Comment": null
           },
           {
             "$id": "109",
             "Reviewed": "Gecieane Junges",
-            "Grade": -1
+            "Grade": -1,
+            "Comment": null
           },
           {
             "$id": "110",
             "Reviewed": "Marcel de Castilho",
-            "Grade": 4
+            "Grade": 4,
+            "Comment": null
           },
           {
             "$id": "111",
             "Reviewed": "Michel Barbosa",
-            "Grade": -1
+            "Grade": -1,
+            "Comment": null
           },
           {
             "$id": "112",
             "Reviewed": "Ricardo Oliveira",
-            "Grade": 2
+            "Grade": 2,
+            "Comment": null
           },
           {
             "$id": "113",
             "Reviewed": "Thiago Cerutti",
-            "Grade": 2
+            "Grade": 2,
+            "Comment": null
           }
         ],
         "Comment": "Na minha opinião, os DEV´s Ricardo e Thiago poderiam ter explanado um pouco mais a respeito dos trabalhos que foram feitos durante o sprint. Acho que mesmo em situações em que não há o que ser mostrado, é possível dar um nível de detalhe sobre o que de fato foi feito. Em relação ao Michel, como trabalhou só em testes, não tenho como avaliar, pois o reflexo dos testes poderá ser percebido só quando a versão for para o cliente."
@@ -603,32 +687,38 @@
           {
             "$id": "116",
             "Reviewed": "Bernard Ribeiro",
-            "Grade": 3
+            "Grade": 3,
+            "Comment": null
           },
           {
             "$id": "117",
             "Reviewed": "Gecieane Junges",
-            "Grade": -1
+            "Grade": -1,
+            "Comment": null
           },
           {
             "$id": "118",
             "Reviewed": "Marcel de Castilho",
-            "Grade": 3
+            "Grade": 3,
+            "Comment": null
           },
           {
             "$id": "119",
             "Reviewed": "Michel Barbosa",
-            "Grade": 3
+            "Grade": 3,
+            "Comment": null
           },
           {
             "$id": "120",
             "Reviewed": "Ricardo Oliveira",
-            "Grade": 3
+            "Grade": 3,
+            "Comment": null
           },
           {
             "$id": "121",
             "Reviewed": "Thiago Cerutti",
-            "Grade": 3
+            "Grade": 3,
+            "Comment": null
           }
         ],
         "Comment": ""
@@ -645,32 +735,38 @@
           {
             "$id": "124",
             "Reviewed": "Bernard Ribeiro",
-            "Grade": 1
+            "Grade": 1,
+            "Comment": null
           },
           {
             "$id": "125",
             "Reviewed": "Gecieane Junges",
-            "Grade": -1
+            "Grade": -1,
+            "Comment": null
           },
           {
             "$id": "126",
             "Reviewed": "Marcel de Castilho",
-            "Grade": 4
+            "Grade": 4,
+            "Comment": null
           },
           {
             "$id": "127",
             "Reviewed": "Michel Barbosa",
-            "Grade": -1
+            "Grade": -1,
+            "Comment": null
           },
           {
             "$id": "128",
             "Reviewed": "Ricardo Oliveira",
-            "Grade": 3
+            "Grade": 3,
+            "Comment": null
           },
           {
             "$id": "129",
             "Reviewed": "Thiago Cerutti",
-            "Grade": 3
+            "Grade": 3,
+            "Comment": null
           }
         ],
         "Comment": "O Bernard tem que ter um acompanhamento muito de perto para sabermos se tem salvação.O Michel eu não consegui julgar, pois ficou mais focado em testes, então preferi deixar para o julgamento do time."
@@ -693,27 +789,32 @@
           {
             "$id": "133",
             "Reviewed": "David Desmaisons",
-            "Grade": -1
+            "Grade": -1,
+            "Comment": null
           },
           {
             "$id": "134",
             "Reviewed": "Douglas Hinckel",
-            "Grade": 4
+            "Grade": 4,
+            "Comment": null
           },
           {
             "$id": "135",
             "Reviewed": "Fernando Bassani",
-            "Grade": 4
+            "Grade": 4,
+            "Comment": null
           },
           {
             "$id": "136",
             "Reviewed": "Rodrigo Freitas",
-            "Grade": 2
+            "Grade": 2,
+            "Comment": null
           },
           {
             "$id": "137",
             "Reviewed": "Roger Weber",
-            "Grade": -1
+            "Grade": -1,
+            "Comment": null
           }
         ],
         "Comment": "O Valor acordado foi apresentado e validado em cenário real de coleta. Muito legal!Fiquei com a impressão de que o Rodrigo perdeu muito tempo com a issue da Weg. Talvez isso seja um indício de que o time não esteja se comunicando com eficácia na Daily ou se ajudando na remoção dos impedimentos.No mais, parabéns ao time pela apresentação e pela utilização da Bancada."
@@ -730,27 +831,32 @@
           {
             "$id": "140",
             "Reviewed": "David Desmaisons",
-            "Grade": 3
+            "Grade": 3,
+            "Comment": null
           },
           {
             "$id": "141",
             "Reviewed": "Douglas Hinckel",
-            "Grade": 3
+            "Grade": 3,
+            "Comment": null
           },
           {
             "$id": "142",
             "Reviewed": "Fernando Bassani",
-            "Grade": 3
+            "Grade": 3,
+            "Comment": null
           },
           {
             "$id": "143",
             "Reviewed": "Rodrigo Freitas",
-            "Grade": 3
+            "Grade": 3,
+            "Comment": null
           },
           {
             "$id": "144",
             "Reviewed": "Roger Weber",
-            "Grade": 3
+            "Grade": 3,
+            "Comment": null
           }
         ],
         "Comment": "David Desmaisons: Ótimo trabalho com o coletor local! Talvez tenha se sobrecarregado ao ficar com a issue do PIM APP e do tempo real do ZIV. Embora tenhamos entregue ambas, a segundo ficou só no 'caminho feliz' e não tivemos tempo de procurar mais pelas grandezas que não estavam presentes na comunicação sniffada.Douglas Hinckel: Foi prejudicado por questões de infra. Ainda considero que desenvolver e testar as issues em equipamentos dos clientes facilita muito e diminui o tempo de resposta. Mas para isso, precisamos de um ambiente adequado, sem dependência de intermediários e que funcione igualmente para desenvolvedores no escritório ou em home office.Fernando Bassani: Não esteve presente no sprint inteiro, mas nos primeiros dias conseguiu finalizar, com maestria, a comunicação serial, em visita à Bandeirantes. Uma parte importante da entrega mais crítica deste sprint.Rodrigo Freitas: Ficou bastante travado no equipamento da WEG. Talvez tenhamos falhado, como time, em não ajudá-lo antes.Todos já passaram por problemas em que não era possível ver uma estratégia de resolução. Um olhar de quem está de fora ajuda bastante. Foi o que fizemos, mas talvez poderíamos tê-lo feito antes.Roger Weber: Tem atuado bastante diretamente com o time de suporte, assumindo bastante responsabilidade com a qualidade do produto e correção de bugs. Faltou apenas um pouco de organização com a parte burocrática do desenvolvimento. Tão importante quanto corrigir um bug, é criar o release notes do Hot Fix, a fim de evitar que seja instalada a versão com problemas.De maneira geral, o time se saiu muito bem! Apesar de muitas interrupções e impedimentos, conseguimos entregar bastante valor. Me preocupa apenas o fato de precisarmos constantemente de ajuda externa para remover impedimentos (soldar cabos, instalar medidores, configurar VPNs e connection managers). Talvez seja uma demanda passageira, causada pelas demandas de leitura serial, mas isso refletiu diretamente na qualidade das issues criadas para o próximo sprint."
@@ -767,27 +873,32 @@
           {
             "$id": "147",
             "Reviewed": "David Desmaisons",
-            "Grade": 3
+            "Grade": 3,
+            "Comment": null
           },
           {
             "$id": "148",
             "Reviewed": "Douglas Hinckel",
-            "Grade": 2
+            "Grade": 2,
+            "Comment": null
           },
           {
             "$id": "149",
             "Reviewed": "Fernando Bassani",
-            "Grade": 3
+            "Grade": 3,
+            "Comment": null
           },
           {
             "$id": "150",
             "Reviewed": "Rodrigo Freitas",
-            "Grade": 2
+            "Grade": 2,
+            "Comment": null
           },
           {
             "$id": "151",
             "Reviewed": "Roger Weber",
-            "Grade": 3
+            "Grade": 3,
+            "Comment": null
           }
         ],
         "Comment": "Nem todo mundo estava prestando atenção nas apresentações."
@@ -804,27 +915,32 @@
           {
             "$id": "154",
             "Reviewed": "David Desmaisons",
-            "Grade": 3
+            "Grade": 3,
+            "Comment": null
           },
           {
             "$id": "155",
             "Reviewed": "Douglas Hinckel",
-            "Grade": 3
+            "Grade": 3,
+            "Comment": null
           },
           {
             "$id": "156",
             "Reviewed": "Fernando Bassani",
-            "Grade": 3
+            "Grade": 3,
+            "Comment": null
           },
           {
             "$id": "157",
             "Reviewed": "Rodrigo Freitas",
-            "Grade": 3
+            "Grade": 3,
+            "Comment": null
           },
           {
             "$id": "158",
             "Reviewed": "Roger Weber",
-            "Grade": 3
+            "Grade": 3,
+            "Comment": null
           }
         ],
         "Comment": ""
@@ -841,27 +957,32 @@
           {
             "$id": "161",
             "Reviewed": "David Desmaisons",
-            "Grade": 4
+            "Grade": 4,
+            "Comment": null
           },
           {
             "$id": "162",
             "Reviewed": "Douglas Hinckel",
-            "Grade": 4
+            "Grade": 4,
+            "Comment": null
           },
           {
             "$id": "163",
             "Reviewed": "Fernando Bassani",
-            "Grade": 4
+            "Grade": 4,
+            "Comment": null
           },
           {
             "$id": "164",
             "Reviewed": "Rodrigo Freitas",
-            "Grade": 4
+            "Grade": 4,
+            "Comment": null
           },
           {
             "$id": "165",
             "Reviewed": "Roger Weber",
-            "Grade": 3
+            "Grade": 3,
+            "Comment": null
           }
         ],
         "Comment": "Roger Weber poderia dar mais importância aos testes unitários"
@@ -878,27 +999,32 @@
           {
             "$id": "168",
             "Reviewed": "David Desmaisons",
-            "Grade": 2
+            "Grade": 2,
+            "Comment": null
           },
           {
             "$id": "169",
             "Reviewed": "Douglas Hinckel",
-            "Grade": 2
+            "Grade": 2,
+            "Comment": null
           },
           {
             "$id": "170",
             "Reviewed": "Fernando Bassani",
-            "Grade": 3
+            "Grade": 3,
+            "Comment": null
           },
           {
             "$id": "171",
             "Reviewed": "Rodrigo Freitas",
-            "Grade": 2
+            "Grade": 2,
+            "Comment": null
           },
           {
             "$id": "172",
             "Reviewed": "Roger Weber",
-            "Grade": 3
+            "Grade": 3,
+            "Comment": null
           }
         ],
         "Comment": "Nos casos do David e do Rodrigo, ficou mais evidente a existência de dificuldades externas, como limitações nos equipamentos ou dificuldades com documentação e testes.O Adrisson vem ajudando cadas vez mais com a parte de bancada e manutenção dos cenários. Vou avaliar com ele se teria alguma ajuda adicional a ser feita."
@@ -915,27 +1041,32 @@
           {
             "$id": "175",
             "Reviewed": "David Desmaisons",
-            "Grade": 3
+            "Grade": 3,
+            "Comment": null
           },
           {
             "$id": "176",
             "Reviewed": "Douglas Hinckel",
-            "Grade": 3
+            "Grade": 3,
+            "Comment": null
           },
           {
             "$id": "177",
             "Reviewed": "Fernando Bassani",
-            "Grade": 3
+            "Grade": 3,
+            "Comment": null
           },
           {
             "$id": "178",
             "Reviewed": "Rodrigo Freitas",
-            "Grade": 3
+            "Grade": 3,
+            "Comment": null
           },
           {
             "$id": "179",
             "Reviewed": "Roger Weber",
-            "Grade": 3
+            "Grade": 3,
+            "Comment": null
           }
         ],
         "Comment": ""
@@ -952,27 +1083,32 @@
           {
             "$id": "182",
             "Reviewed": "David Desmaisons",
-            "Grade": 4
+            "Grade": 4,
+            "Comment": null
           },
           {
             "$id": "183",
             "Reviewed": "Douglas Hinckel",
-            "Grade": 3
+            "Grade": 3,
+            "Comment": null
           },
           {
             "$id": "184",
             "Reviewed": "Fernando Bassani",
-            "Grade": 4
+            "Grade": 4,
+            "Comment": null
           },
           {
             "$id": "185",
             "Reviewed": "Rodrigo Freitas",
-            "Grade": 3
+            "Grade": 3,
+            "Comment": null
           },
           {
             "$id": "186",
             "Reviewed": "Roger Weber",
-            "Grade": 3
+            "Grade": 3,
+            "Comment": null
           }
         ],
         "Comment": ""
@@ -989,27 +1125,32 @@
           {
             "$id": "189",
             "Reviewed": "David Desmaisons",
-            "Grade": 3
+            "Grade": 3,
+            "Comment": null
           },
           {
             "$id": "190",
             "Reviewed": "Douglas Hinckel",
-            "Grade": 3
+            "Grade": 3,
+            "Comment": null
           },
           {
             "$id": "191",
             "Reviewed": "Fernando Bassani",
-            "Grade": 3
+            "Grade": 3,
+            "Comment": null
           },
           {
             "$id": "192",
             "Reviewed": "Rodrigo Freitas",
-            "Grade": 3
+            "Grade": 3,
+            "Comment": null
           },
           {
             "$id": "193",
             "Reviewed": "Roger Weber",
-            "Grade": 3
+            "Grade": 3,
+            "Comment": null
           }
         ],
         "Comment": "No que diz respeito ao sprint, me parece que todos estavam dedicados. No entanto, ainda precisamos atentar ao seguinte:* David ainda precisa de mais atenção ao fazer as coisas* Roger está vacilando com o testes (muitos PRs voltam porque não possuem testes). A equipe está preocupada com isso, tanto que foi mencionado na retrospectiva* De uma maneira geral, a galera precisa dar mais atenção às coisas básicas. O procedimento para fechar versão, por exemplo, está descrito no Confluence, mas ainda assim não foi seguido ao gerar um hotfix enquanto eu não estava aqui.Como pontos positivos:* Galera elogiou bastante o Ronan nos últimos dois sprints. * Adrisson é bastante organizado e ajuda bastante a gente.Outra coisa: estou curioso pra saber como a minha ausência nesse sprint (viagem à Band e os 3 dias de folga) vão impactar a percepção de quem não atua diretamente com o time."
@@ -1026,27 +1167,32 @@
           {
             "$id": "196",
             "Reviewed": "David Desmaisons",
-            "Grade": 3
+            "Grade": 3,
+            "Comment": null
           },
           {
             "$id": "197",
             "Reviewed": "Douglas Hinckel",
-            "Grade": 3
+            "Grade": 3,
+            "Comment": null
           },
           {
             "$id": "198",
             "Reviewed": "Fernando Bassani",
-            "Grade": 3
+            "Grade": 3,
+            "Comment": null
           },
           {
             "$id": "199",
             "Reviewed": "Rodrigo Freitas",
-            "Grade": 3
+            "Grade": 3,
+            "Comment": null
           },
           {
             "$id": "200",
             "Reviewed": "Roger Weber",
-            "Grade": 3
+            "Grade": 3,
+            "Comment": null
           }
         ],
         "Comment": ""
@@ -1069,27 +1215,32 @@
           {
             "$id": "204",
             "Reviewed": "David Desmaisons",
-            "Grade": 4
+            "Grade": 4,
+            "Comment": null
           },
           {
             "$id": "205",
             "Reviewed": "Douglas Hinckel",
-            "Grade": 3
+            "Grade": 3,
+            "Comment": null
           },
           {
             "$id": "206",
             "Reviewed": "Fernando Bassani",
-            "Grade": 4
+            "Grade": 4,
+            "Comment": null
           },
           {
             "$id": "207",
             "Reviewed": "Rodrigo Freitas",
-            "Grade": 3
+            "Grade": 3,
+            "Comment": null
           },
           {
             "$id": "208",
             "Reviewed": "Roger Weber",
-            "Grade": 3
+            "Grade": 3,
+            "Comment": null
           }
         ],
         "Comment": ""
@@ -1106,27 +1257,32 @@
           {
             "$id": "211",
             "Reviewed": "David Desmaisons",
-            "Grade": 3
+            "Grade": 3,
+            "Comment": null
           },
           {
             "$id": "212",
             "Reviewed": "Douglas Hinckel",
-            "Grade": 3
+            "Grade": 3,
+            "Comment": null
           },
           {
             "$id": "213",
             "Reviewed": "Fernando Bassani",
-            "Grade": 3
+            "Grade": 3,
+            "Comment": null
           },
           {
             "$id": "214",
             "Reviewed": "Rodrigo Freitas",
-            "Grade": 3
+            "Grade": 3,
+            "Comment": null
           },
           {
             "$id": "215",
             "Reviewed": "Roger Weber",
-            "Grade": 3
+            "Grade": 3,
+            "Comment": null
           }
         ],
         "Comment": ""
@@ -1143,27 +1299,32 @@
           {
             "$id": "218",
             "Reviewed": "David Desmaisons",
-            "Grade": 3
+            "Grade": 3,
+            "Comment": null
           },
           {
             "$id": "219",
             "Reviewed": "Douglas Hinckel",
-            "Grade": 3
+            "Grade": 3,
+            "Comment": null
           },
           {
             "$id": "220",
             "Reviewed": "Fernando Bassani",
-            "Grade": -1
+            "Grade": -1,
+            "Comment": null
           },
           {
             "$id": "221",
             "Reviewed": "Rodrigo Freitas",
-            "Grade": 2
+            "Grade": 2,
+            "Comment": null
           },
           {
             "$id": "222",
             "Reviewed": "Roger Weber",
-            "Grade": -1
+            "Grade": -1,
+            "Comment": null
           }
         ],
         "Comment": "O do Bassani me abstive de avaliar, pois é bem interno e ainda não foi concluido.Tem um ponto negativo no time, incluindo o Adrisson, que é uma visão muito fechada do coletor. O sintoma é ficarmos descobrindo coisas sempre que vamos colocar as coisas para funcionar ponta a ponta. Vou dar mais um toque no Adrisson sobre o tema. "
@@ -1180,27 +1341,32 @@
           {
             "$id": "225",
             "Reviewed": "David Desmaisons",
-            "Grade": 3
+            "Grade": 3,
+            "Comment": null
           },
           {
             "$id": "226",
             "Reviewed": "Douglas Hinckel",
-            "Grade": 3
+            "Grade": 3,
+            "Comment": null
           },
           {
             "$id": "227",
             "Reviewed": "Fernando Bassani",
-            "Grade": 3
+            "Grade": 3,
+            "Comment": null
           },
           {
             "$id": "228",
             "Reviewed": "Rodrigo Freitas",
-            "Grade": 3
+            "Grade": 3,
+            "Comment": null
           },
           {
             "$id": "229",
             "Reviewed": "Roger Weber",
-            "Grade": 3
+            "Grade": 3,
+            "Comment": null
           }
         ],
         "Comment": "Pessoal precisa prestar mais atenção nas reuniões diárias. O computador tira o foco com facilidade e tem sido comum as pessoas não ouvirem o que os outros falaram porque estavam lendo (ou até mesmo vendo um vídeo!) durante a daily."
@@ -1217,27 +1383,32 @@
           {
             "$id": "232",
             "Reviewed": "David Desmaisons",
-            "Grade": -1
+            "Grade": -1,
+            "Comment": null
           },
           {
             "$id": "233",
             "Reviewed": "Douglas Hinckel",
-            "Grade": -1
+            "Grade": -1,
+            "Comment": null
           },
           {
             "$id": "234",
             "Reviewed": "Fernando Bassani",
-            "Grade": -1
+            "Grade": -1,
+            "Comment": null
           },
           {
             "$id": "235",
             "Reviewed": "Rodrigo Freitas",
-            "Grade": -1
+            "Grade": -1,
+            "Comment": null
           },
           {
             "$id": "236",
             "Reviewed": "Roger Weber",
-            "Grade": -1
+            "Grade": -1,
+            "Comment": null
           }
         ],
         "Comment": "Estive fora do sprint por uma semana, não consigo avaliar"
@@ -1254,27 +1425,32 @@
           {
             "$id": "239",
             "Reviewed": "David Desmaisons",
-            "Grade": 3
+            "Grade": 3,
+            "Comment": null
           },
           {
             "$id": "240",
             "Reviewed": "Douglas Hinckel",
-            "Grade": 4
+            "Grade": 4,
+            "Comment": null
           },
           {
             "$id": "241",
             "Reviewed": "Fernando Bassani",
-            "Grade": 3
+            "Grade": 3,
+            "Comment": null
           },
           {
             "$id": "242",
             "Reviewed": "Rodrigo Freitas",
-            "Grade": 3
+            "Grade": 3,
+            "Comment": null
           },
           {
             "$id": "243",
             "Reviewed": "Roger Weber",
-            "Grade": 3
+            "Grade": 3,
+            "Comment": null
           }
         ],
         "Comment": ""
@@ -1291,27 +1467,32 @@
           {
             "$id": "246",
             "Reviewed": "David Desmaisons",
-            "Grade": 3
+            "Grade": 3,
+            "Comment": null
           },
           {
             "$id": "247",
             "Reviewed": "Douglas Hinckel",
-            "Grade": 3
+            "Grade": 3,
+            "Comment": null
           },
           {
             "$id": "248",
             "Reviewed": "Fernando Bassani",
-            "Grade": 3
+            "Grade": 3,
+            "Comment": null
           },
           {
             "$id": "249",
             "Reviewed": "Rodrigo Freitas",
-            "Grade": 3
+            "Grade": 3,
+            "Comment": null
           },
           {
             "$id": "250",
             "Reviewed": "Roger Weber",
-            "Grade": 3
+            "Grade": 3,
+            "Comment": null
           }
         ],
         "Comment": "David: David tem mostrado bastante autonomia, tomando a responsabilidade em algumas frentes, principalmente no coletor local. Sinto bastante confiança no trabalho dele. Mesmo os assuntos que ele não domina, tem a postura de quem vai atrás da solução e resolve o problema.Douglas: Um ponto que merece nossa atenção é a política de foco no valor. Finalizar um driver que não poderá ser usado por falta de alguma coisa no coletor ou manager, apesar de bastante esforço, não entrega valor. Entendo que toma bastante tempo, mas é importante sempre fazer os testes de ponta a ponta com o PIM.É um dos devs mais experientes do time e apesar dos problemas de infra e acesso, conseguiu avançar bem com o driver ABS.Bassani: Apesar de ficar o sprint todo com uma issue nebulosa, Bassani contribuiu bastante para o time. Além de ser o dev mais experiente e ajudar com questões técnicas, está constantemente reforçando para o time o foco no valor da entrega, e não em finalizar issues. Postura louvável!Rodrigo: Finalmente finalizou as atividades do driver da WEG. Mostrou bastante responsabilidade e autonomia, ao assumir os problemas (desde desafios técnicos até problemas de infra e medidor) durante o desenvolvimento. Talvez tenhamos jogado uma bomba no seu colo, mas deu seus pulos e resolveu.Roger: Roger é uma das pessoas com mais comprometimento com a qualidade da PdC! Dentre o time de desenvolvimento e suporte, é o que menos se conforma com um 'comentário'. Vai atrás do pessoal do suporte, entra no ambiente do cliente. Não larga o osso até corrigir. Essa característica ficou evidente neste último sprint. Participou apenas da segunda semana, mas colocou ordem nos chamados! "
@@ -1328,27 +1509,32 @@
           {
             "$id": "253",
             "Reviewed": "David Desmaisons",
-            "Grade": 3
+            "Grade": 3,
+            "Comment": null
           },
           {
             "$id": "254",
             "Reviewed": "Douglas Hinckel",
-            "Grade": 3
+            "Grade": 3,
+            "Comment": null
           },
           {
             "$id": "255",
             "Reviewed": "Fernando Bassani",
-            "Grade": 3
+            "Grade": 3,
+            "Comment": null
           },
           {
             "$id": "256",
             "Reviewed": "Rodrigo Freitas",
-            "Grade": 3
+            "Grade": 3,
+            "Comment": null
           },
           {
             "$id": "257",
             "Reviewed": "Roger Weber",
-            "Grade": 3
+            "Grade": 3,
+            "Comment": null
           }
         ],
         "Comment": ""
@@ -1371,32 +1557,38 @@
           {
             "$id": "261",
             "Reviewed": "Bernard Ribeiro",
-            "Grade": 4
+            "Grade": 4,
+            "Comment": null
           },
           {
             "$id": "262",
             "Reviewed": "Gecieane Junges",
-            "Grade": 4
+            "Grade": 4,
+            "Comment": null
           },
           {
             "$id": "263",
             "Reviewed": "Michel Barbosa",
-            "Grade": 4
+            "Grade": 4,
+            "Comment": null
           },
           {
             "$id": "264",
             "Reviewed": "Ricardo Oliveira",
-            "Grade": 4
+            "Grade": 4,
+            "Comment": null
           },
           {
             "$id": "265",
             "Reviewed": "Caliel Costa",
-            "Grade": 3
+            "Grade": 3,
+            "Comment": null
           },
           {
             "$id": "266",
             "Reviewed": "Guilherme Waess",
-            "Grade": -1
+            "Grade": -1,
+            "Comment": null
           }
         ],
         "Comment": ""
@@ -1413,32 +1605,38 @@
           {
             "$id": "269",
             "Reviewed": "Bernard Ribeiro",
-            "Grade": 2
+            "Grade": 2,
+            "Comment": null
           },
           {
             "$id": "270",
             "Reviewed": "Gecieane Junges",
-            "Grade": 3
+            "Grade": 3,
+            "Comment": null
           },
           {
             "$id": "271",
             "Reviewed": "Michel Barbosa",
-            "Grade": 3
+            "Grade": 3,
+            "Comment": null
           },
           {
             "$id": "272",
             "Reviewed": "Ricardo Oliveira",
-            "Grade": 3
+            "Grade": 3,
+            "Comment": null
           },
           {
             "$id": "273",
             "Reviewed": "Caliel Costa",
-            "Grade": 3
+            "Grade": 3,
+            "Comment": null
           },
           {
             "$id": "274",
             "Reviewed": "Guilherme Waess",
-            "Grade": -1
+            "Grade": -1,
+            "Comment": null
           }
         ],
         "Comment": "Guilherme volto de férias."
@@ -1455,32 +1653,38 @@
           {
             "$id": "277",
             "Reviewed": "Bernard Ribeiro",
-            "Grade": 1
+            "Grade": 1,
+            "Comment": null
           },
           {
             "$id": "278",
             "Reviewed": "Gecieane Junges",
-            "Grade": 3
+            "Grade": 3,
+            "Comment": null
           },
           {
             "$id": "279",
             "Reviewed": "Michel Barbosa",
-            "Grade": 3
+            "Grade": 3,
+            "Comment": null
           },
           {
             "$id": "280",
             "Reviewed": "Ricardo Oliveira",
-            "Grade": 3
+            "Grade": 3,
+            "Comment": null
           },
           {
             "$id": "281",
             "Reviewed": "Caliel Costa",
-            "Grade": -1
+            "Grade": -1,
+            "Comment": null
           },
           {
             "$id": "282",
             "Reviewed": "Guilherme Waess",
-            "Grade": -1
+            "Grade": -1,
+            "Comment": null
           }
         ],
         "Comment": ""
@@ -1497,32 +1701,38 @@
           {
             "$id": "285",
             "Reviewed": "Bernard Ribeiro",
-            "Grade": 1
+            "Grade": 1,
+            "Comment": null
           },
           {
             "$id": "286",
             "Reviewed": "Gecieane Junges",
-            "Grade": 3
+            "Grade": 3,
+            "Comment": null
           },
           {
             "$id": "287",
             "Reviewed": "Michel Barbosa",
-            "Grade": -1
+            "Grade": -1,
+            "Comment": null
           },
           {
             "$id": "288",
             "Reviewed": "Ricardo Oliveira",
-            "Grade": -1
+            "Grade": -1,
+            "Comment": null
           },
           {
             "$id": "289",
             "Reviewed": "Caliel Costa",
-            "Grade": 3
+            "Grade": 3,
+            "Comment": null
           },
           {
             "$id": "290",
             "Reviewed": "Guilherme Waess",
-            "Grade": -1
+            "Grade": -1,
+            "Comment": null
           }
         ],
         "Comment": ""
@@ -1539,32 +1749,38 @@
           {
             "$id": "293",
             "Reviewed": "Bernard Ribeiro",
-            "Grade": 3
+            "Grade": 3,
+            "Comment": null
           },
           {
             "$id": "294",
             "Reviewed": "Gecieane Junges",
-            "Grade": 2
+            "Grade": 2,
+            "Comment": null
           },
           {
             "$id": "295",
             "Reviewed": "Michel Barbosa",
-            "Grade": 3
+            "Grade": 3,
+            "Comment": null
           },
           {
             "$id": "296",
             "Reviewed": "Ricardo Oliveira",
-            "Grade": 3
+            "Grade": 3,
+            "Comment": null
           },
           {
             "$id": "297",
             "Reviewed": "Caliel Costa",
-            "Grade": 3
+            "Grade": 3,
+            "Comment": null
           },
           {
             "$id": "298",
             "Reviewed": "Guilherme Waess",
-            "Grade": 3
+            "Grade": 3,
+            "Comment": null
           }
         ],
         "Comment": ""
@@ -1581,32 +1797,38 @@
           {
             "$id": "301",
             "Reviewed": "Bernard Ribeiro",
-            "Grade": 1
+            "Grade": 1,
+            "Comment": null
           },
           {
             "$id": "302",
             "Reviewed": "Gecieane Junges",
-            "Grade": 2
+            "Grade": 2,
+            "Comment": null
           },
           {
             "$id": "303",
             "Reviewed": "Michel Barbosa",
-            "Grade": 2
+            "Grade": 2,
+            "Comment": null
           },
           {
             "$id": "304",
             "Reviewed": "Ricardo Oliveira",
-            "Grade": 2
+            "Grade": 2,
+            "Comment": null
           },
           {
             "$id": "305",
             "Reviewed": "Caliel Costa",
-            "Grade": 3
+            "Grade": 3,
+            "Comment": null
           },
           {
             "$id": "306",
             "Reviewed": "Guilherme Waess",
-            "Grade": -1
+            "Grade": -1,
+            "Comment": null
           }
         ],
         "Comment": ""
@@ -1623,32 +1845,38 @@
           {
             "$id": "309",
             "Reviewed": "Bernard Ribeiro",
-            "Grade": 3
+            "Grade": 3,
+            "Comment": null
           },
           {
             "$id": "310",
             "Reviewed": "Gecieane Junges",
-            "Grade": 4
+            "Grade": 4,
+            "Comment": null
           },
           {
             "$id": "311",
             "Reviewed": "Michel Barbosa",
-            "Grade": 4
+            "Grade": 4,
+            "Comment": null
           },
           {
             "$id": "312",
             "Reviewed": "Ricardo Oliveira",
-            "Grade": 4
+            "Grade": 4,
+            "Comment": null
           },
           {
             "$id": "313",
             "Reviewed": "Caliel Costa",
-            "Grade": 3
+            "Grade": 3,
+            "Comment": null
           },
           {
             "$id": "314",
             "Reviewed": "Guilherme Waess",
-            "Grade": 4
+            "Grade": 4,
+            "Comment": null
           }
         ],
         "Comment": ""
@@ -1665,32 +1893,38 @@
           {
             "$id": "317",
             "Reviewed": "Bernard Ribeiro",
-            "Grade": 3
+            "Grade": 3,
+            "Comment": null
           },
           {
             "$id": "318",
             "Reviewed": "Gecieane Junges",
-            "Grade": 3
+            "Grade": 3,
+            "Comment": null
           },
           {
             "$id": "319",
             "Reviewed": "Michel Barbosa",
-            "Grade": 3
+            "Grade": 3,
+            "Comment": null
           },
           {
             "$id": "320",
             "Reviewed": "Ricardo Oliveira",
-            "Grade": 3
+            "Grade": 3,
+            "Comment": null
           },
           {
             "$id": "321",
             "Reviewed": "Caliel Costa",
-            "Grade": 4
+            "Grade": 4,
+            "Comment": null
           },
           {
             "$id": "322",
             "Reviewed": "Guilherme Waess",
-            "Grade": 3
+            "Grade": 3,
+            "Comment": null
           }
         ],
         "Comment": ""
@@ -1707,32 +1941,38 @@
           {
             "$id": "325",
             "Reviewed": "Bernard Ribeiro",
-            "Grade": 3
+            "Grade": 3,
+            "Comment": null
           },
           {
             "$id": "326",
             "Reviewed": "Gecieane Junges",
-            "Grade": 2
+            "Grade": 2,
+            "Comment": null
           },
           {
             "$id": "327",
             "Reviewed": "Michel Barbosa",
-            "Grade": 2
+            "Grade": 2,
+            "Comment": null
           },
           {
             "$id": "328",
             "Reviewed": "Ricardo Oliveira",
-            "Grade": 2
+            "Grade": 2,
+            "Comment": null
           },
           {
             "$id": "329",
             "Reviewed": "Caliel Costa",
-            "Grade": 3
+            "Grade": 3,
+            "Comment": null
           },
           {
             "$id": "330",
             "Reviewed": "Guilherme Waess",
-            "Grade": -1
+            "Grade": -1,
+            "Comment": null
           }
         ],
         "Comment": ""
@@ -1749,32 +1989,38 @@
           {
             "$id": "333",
             "Reviewed": "Bernard Ribeiro",
-            "Grade": 2
+            "Grade": 2,
+            "Comment": null
           },
           {
             "$id": "334",
             "Reviewed": "Gecieane Junges",
-            "Grade": 2
+            "Grade": 2,
+            "Comment": null
           },
           {
             "$id": "335",
             "Reviewed": "Michel Barbosa",
-            "Grade": 4
+            "Grade": 4,
+            "Comment": null
           },
           {
             "$id": "336",
             "Reviewed": "Ricardo Oliveira",
-            "Grade": 2
+            "Grade": 2,
+            "Comment": null
           },
           {
             "$id": "337",
             "Reviewed": "Caliel Costa",
-            "Grade": 4
+            "Grade": 4,
+            "Comment": null
           },
           {
             "$id": "338",
             "Reviewed": "Guilherme Waess",
-            "Grade": -1
+            "Grade": -1,
+            "Comment": null
           }
         ],
         "Comment": "O rendimento do Caliel foi surpreendente. Pelo que já mostrou, terá muito a contribuir com o time."
@@ -1791,32 +2037,38 @@
           {
             "$id": "341",
             "Reviewed": "Bernard Ribeiro",
-            "Grade": -1
+            "Grade": -1,
+            "Comment": null
           },
           {
             "$id": "342",
             "Reviewed": "Gecieane Junges",
-            "Grade": -1
+            "Grade": -1,
+            "Comment": null
           },
           {
             "$id": "343",
             "Reviewed": "Michel Barbosa",
-            "Grade": -1
+            "Grade": -1,
+            "Comment": null
           },
           {
             "$id": "344",
             "Reviewed": "Ricardo Oliveira",
-            "Grade": -1
+            "Grade": -1,
+            "Comment": null
           },
           {
             "$id": "345",
             "Reviewed": "Caliel Costa",
-            "Grade": -1
+            "Grade": -1,
+            "Comment": null
           },
           {
             "$id": "346",
             "Reviewed": "Guilherme Waess",
-            "Grade": -1
+            "Grade": -1,
+            "Comment": null
           }
         ],
         "Comment": "Primeira demo que fui, não sei avaliar. Achei interessante observar a evolução das ferramentas da plataforma. Espero assistir mais vezes."
@@ -1833,32 +2085,38 @@
           {
             "$id": "349",
             "Reviewed": "Bernard Ribeiro",
-            "Grade": 2
+            "Grade": 2,
+            "Comment": null
           },
           {
             "$id": "350",
             "Reviewed": "Gecieane Junges",
-            "Grade": 3
+            "Grade": 3,
+            "Comment": null
           },
           {
             "$id": "351",
             "Reviewed": "Michel Barbosa",
-            "Grade": 3
+            "Grade": 3,
+            "Comment": null
           },
           {
             "$id": "352",
             "Reviewed": "Ricardo Oliveira",
-            "Grade": 1
+            "Grade": 1,
+            "Comment": null
           },
           {
             "$id": "353",
             "Reviewed": "Caliel Costa",
-            "Grade": 3
+            "Grade": 3,
+            "Comment": null
           },
           {
             "$id": "354",
             "Reviewed": "Guilherme Waess",
-            "Grade": 3
+            "Grade": 3,
+            "Comment": null
           }
         ],
         "Comment": ""
@@ -1875,32 +2133,38 @@
           {
             "$id": "357",
             "Reviewed": "Bernard Ribeiro",
-            "Grade": 3
+            "Grade": 3,
+            "Comment": null
           },
           {
             "$id": "358",
             "Reviewed": "Gecieane Junges",
-            "Grade": 3
+            "Grade": 3,
+            "Comment": null
           },
           {
             "$id": "359",
             "Reviewed": "Michel Barbosa",
-            "Grade": 3
+            "Grade": 3,
+            "Comment": null
           },
           {
             "$id": "360",
             "Reviewed": "Ricardo Oliveira",
-            "Grade": 3
+            "Grade": 3,
+            "Comment": null
           },
           {
             "$id": "361",
             "Reviewed": "Caliel Costa",
-            "Grade": 3
+            "Grade": 3,
+            "Comment": null
           },
           {
             "$id": "362",
             "Reviewed": "Guilherme Waess",
-            "Grade": -1
+            "Grade": -1,
+            "Comment": null
           }
         ],
         "Comment": "No momento não tenho comentário para fazer.Obrigado."
@@ -1917,32 +2181,38 @@
           {
             "$id": "365",
             "Reviewed": "Bernard Ribeiro",
-            "Grade": 2
+            "Grade": 2,
+            "Comment": null
           },
           {
             "$id": "366",
             "Reviewed": "Gecieane Junges",
-            "Grade": 4
+            "Grade": 4,
+            "Comment": null
           },
           {
             "$id": "367",
             "Reviewed": "Michel Barbosa",
-            "Grade": 4
+            "Grade": 4,
+            "Comment": null
           },
           {
             "$id": "368",
             "Reviewed": "Ricardo Oliveira",
-            "Grade": 4
+            "Grade": 4,
+            "Comment": null
           },
           {
             "$id": "369",
             "Reviewed": "Caliel Costa",
-            "Grade": 3
+            "Grade": 3,
+            "Comment": null
           },
           {
             "$id": "370",
             "Reviewed": "Guilherme Waess",
-            "Grade": -1
+            "Grade": -1,
+            "Comment": null
           }
         ],
         "Comment": ""
@@ -1959,32 +2229,38 @@
           {
             "$id": "373",
             "Reviewed": "Bernard Ribeiro",
-            "Grade": 4
+            "Grade": 4,
+            "Comment": null
           },
           {
             "$id": "374",
             "Reviewed": "Gecieane Junges",
-            "Grade": 4
+            "Grade": 4,
+            "Comment": null
           },
           {
             "$id": "375",
             "Reviewed": "Michel Barbosa",
-            "Grade": 4
+            "Grade": 4,
+            "Comment": null
           },
           {
             "$id": "376",
             "Reviewed": "Ricardo Oliveira",
-            "Grade": 4
+            "Grade": 4,
+            "Comment": null
           },
           {
             "$id": "377",
             "Reviewed": "Caliel Costa",
-            "Grade": 4
+            "Grade": 4,
+            "Comment": null
           },
           {
             "$id": "378",
             "Reviewed": "Guilherme Waess",
-            "Grade": 2
+            "Grade": 2,
+            "Comment": null
           }
         ],
         "Comment": ""
@@ -2001,32 +2277,38 @@
           {
             "$id": "381",
             "Reviewed": "Bernard Ribeiro",
-            "Grade": 3
+            "Grade": 3,
+            "Comment": null
           },
           {
             "$id": "382",
             "Reviewed": "Gecieane Junges",
-            "Grade": 4
+            "Grade": 4,
+            "Comment": null
           },
           {
             "$id": "383",
             "Reviewed": "Michel Barbosa",
-            "Grade": 4
+            "Grade": 4,
+            "Comment": null
           },
           {
             "$id": "384",
             "Reviewed": "Ricardo Oliveira",
-            "Grade": 4
+            "Grade": 4,
+            "Comment": null
           },
           {
             "$id": "385",
             "Reviewed": "Caliel Costa",
-            "Grade": 3
+            "Grade": 3,
+            "Comment": null
           },
           {
             "$id": "386",
             "Reviewed": "Guilherme Waess",
-            "Grade": -1
+            "Grade": -1,
+            "Comment": null
           }
         ],
         "Comment": ""
@@ -2043,32 +2325,38 @@
           {
             "$id": "389",
             "Reviewed": "Bernard Ribeiro",
-            "Grade": 3
+            "Grade": 3,
+            "Comment": null
           },
           {
             "$id": "390",
             "Reviewed": "Gecieane Junges",
-            "Grade": 3
+            "Grade": 3,
+            "Comment": null
           },
           {
             "$id": "391",
             "Reviewed": "Michel Barbosa",
-            "Grade": 3
+            "Grade": 3,
+            "Comment": null
           },
           {
             "$id": "392",
             "Reviewed": "Ricardo Oliveira",
-            "Grade": 3
+            "Grade": 3,
+            "Comment": null
           },
           {
             "$id": "393",
             "Reviewed": "Caliel Costa",
-            "Grade": 3
+            "Grade": 3,
+            "Comment": null
           },
           {
             "$id": "394",
             "Reviewed": "Guilherme Waess",
-            "Grade": 3
+            "Grade": 3,
+            "Comment": null
           }
         ],
         "Comment": ""
@@ -2091,17 +2379,20 @@
           {
             "$id": "398",
             "Reviewed": "Heitor Belloni",
-            "Grade": 4
+            "Grade": 4,
+            "Comment": null
           },
           {
             "$id": "399",
             "Reviewed": "Bruno Preima",
-            "Grade": 1
+            "Grade": 1,
+            "Comment": null
           },
           {
             "$id": "400",
             "Reviewed": "Gabriel Leitão",
-            "Grade": 4
+            "Grade": 4,
+            "Comment": null
           }
         ],
         "Comment": ""
@@ -2118,17 +2409,20 @@
           {
             "$id": "403",
             "Reviewed": "Heitor Belloni",
-            "Grade": 3
+            "Grade": 3,
+            "Comment": null
           },
           {
             "$id": "404",
             "Reviewed": "Bruno Preima",
-            "Grade": 3
+            "Grade": 3,
+            "Comment": null
           },
           {
             "$id": "405",
             "Reviewed": "Gabriel Leitão",
-            "Grade": 3
+            "Grade": 3,
+            "Comment": null
           }
         ],
         "Comment": "Apesar da falha, percebi o esforço de todos no dia a dia que vão além das responsabilidades como desenvolvedor."
@@ -2145,17 +2439,20 @@
           {
             "$id": "408",
             "Reviewed": "Heitor Belloni",
-            "Grade": 4
+            "Grade": 4,
+            "Comment": null
           },
           {
             "$id": "409",
             "Reviewed": "Bruno Preima",
-            "Grade": 3
+            "Grade": 3,
+            "Comment": null
           },
           {
             "$id": "410",
             "Reviewed": "Gabriel Leitão",
-            "Grade": 3
+            "Grade": 3,
+            "Comment": null
           }
         ],
         "Comment": ""
@@ -2172,17 +2469,20 @@
           {
             "$id": "413",
             "Reviewed": "Heitor Belloni",
-            "Grade": 2
+            "Grade": 2,
+            "Comment": null
           },
           {
             "$id": "414",
             "Reviewed": "Bruno Preima",
-            "Grade": 1
+            "Grade": 1,
+            "Comment": null
           },
           {
             "$id": "415",
             "Reviewed": "Gabriel Leitão",
-            "Grade": 3
+            "Grade": 3,
+            "Comment": null
           }
         ],
         "Comment": "Considerando que somos clientes e queremos compreender o valor do que foi entregue e não qual issue foi feita, acredito que o time poderia se focar mais no valor gerado ou não com cada issue.Com base nisso, para gerar reflexão no time, envio algumas perguntas:- O time compreende o valor que cada issue ou o conjunto delas gera ao cliente?- O definition of done descrito na issue é técnico ou embasado no valor que gera?- O time tem tempo suficiente para preparar a apresentação da demo?- Há um Scrum Master no time ou alguém que está sempre buscando a reflexão por valor gerado?Compreendo que esta não é uma tarefa fácil, mas precisamos buscar isso o tempo todo para compreender o nosso produto e também os anseios de nossos clientes."
@@ -2199,17 +2499,20 @@
           {
             "$id": "418",
             "Reviewed": "Heitor Belloni",
-            "Grade": 3
+            "Grade": 3,
+            "Comment": null
           },
           {
             "$id": "419",
             "Reviewed": "Bruno Preima",
-            "Grade": 2
+            "Grade": 2,
+            "Comment": null
           },
           {
             "$id": "420",
             "Reviewed": "Gabriel Leitão",
-            "Grade": 2
+            "Grade": 2,
+            "Comment": null
           }
         ],
         "Comment": "Sei que o Gabriel ficou ajudando outras pessoas, mas minha expectativa em relação ao avanço dos gráficos ficou prejudicada. Excelente teria sido fechar a questão de arquitetura na primeira semana e já avançar na reestruturação na segunda.No caso do Bruno eu simplesmente acho pouco valor para 2 semanas. Pode ser algo isolado, uma issue mais casca grossa que de vez em quando ocorre ou má fase.Sobre a demo, teve o problema do cache para mostrar alarmes, e tivemos que abrir o banco para uma issue com interface. É negativo..Dei um feedback aos analistas sobre a falta de entendimento do time em relação à expectativa da issue de inspeção lógica. A tela de status das inspeções é até mais importante que os alarmes. Nesta issue, critérios de aceite teriam sido bem úteis.Minha impressão geral é que o ciclo de desenvolvimento não fez juz à palavra 'sprint'."
@@ -2226,17 +2529,20 @@
           {
             "$id": "423",
             "Reviewed": "Heitor Belloni",
-            "Grade": 4
+            "Grade": 4,
+            "Comment": null
           },
           {
             "$id": "424",
             "Reviewed": "Bruno Preima",
-            "Grade": 4
+            "Grade": 4,
+            "Comment": null
           },
           {
             "$id": "425",
             "Reviewed": "Gabriel Leitão",
-            "Grade": 4
+            "Grade": 4,
+            "Comment": null
           }
         ],
         "Comment": ""
@@ -2253,17 +2559,20 @@
           {
             "$id": "428",
             "Reviewed": "Heitor Belloni",
-            "Grade": 3
+            "Grade": 3,
+            "Comment": null
           },
           {
             "$id": "429",
             "Reviewed": "Bruno Preima",
-            "Grade": 1
+            "Grade": 1,
+            "Comment": null
           },
           {
             "$id": "430",
             "Reviewed": "Gabriel Leitão",
-            "Grade": 2
+            "Grade": 2,
+            "Comment": null
           }
         ],
         "Comment": "Quando alguma regra de negócio não está muito clara ou gera alguma dúvida, sugiro que cada desenvolvedor busque o entendimento ao invés de sair codificando baseado apenas no que está no Jira, ou seja, sem entender completamente a demanda. Dessa forma, as implementações tendem a ser mais rápidas e mais aderentes às necessidades do cliente. Com relação a um membro do time ajudar um colega de outro time, acho que poderia ser melhor alinhado para evitar a falha do sprint do seu próprio time."
@@ -2280,17 +2589,20 @@
           {
             "$id": "433",
             "Reviewed": "Heitor Belloni",
-            "Grade": 4
+            "Grade": 4,
+            "Comment": null
           },
           {
             "$id": "434",
             "Reviewed": "Bruno Preima",
-            "Grade": 2
+            "Grade": 2,
+            "Comment": null
           },
           {
             "$id": "435",
             "Reviewed": "Gabriel Leitão",
-            "Grade": 3
+            "Grade": 3,
+            "Comment": null
           }
         ],
         "Comment": "A impressão que tive, que o Bruno não conseguiu compreender o objetivo da issue que implementou, da verificação de canal. Acredito ser muito importante isso no alinhamento do time para garantir a entrega do que se espera por parte do cliente."
@@ -2307,17 +2619,20 @@
           {
             "$id": "438",
             "Reviewed": "Heitor Belloni",
-            "Grade": 4
+            "Grade": 4,
+            "Comment": null
           },
           {
             "$id": "439",
             "Reviewed": "Bruno Preima",
-            "Grade": 3
+            "Grade": 3,
+            "Comment": null
           },
           {
             "$id": "440",
             "Reviewed": "Gabriel Leitão",
-            "Grade": 4
+            "Grade": 4,
+            "Comment": null
           }
         ],
         "Comment": ""
@@ -2340,22 +2655,26 @@
           {
             "$id": "444",
             "Reviewed": "Heitor Belloni",
-            "Grade": 2
+            "Grade": 2,
+            "Comment": null
           },
           {
             "$id": "445",
             "Reviewed": "Bruno Preima",
-            "Grade": 3
+            "Grade": 3,
+            "Comment": null
           },
           {
             "$id": "446",
             "Reviewed": "Gabriel Leitão",
-            "Grade": 3
+            "Grade": 3,
+            "Comment": null
           },
           {
             "$id": "447",
             "Reviewed": "Thiago Cerutti",
-            "Grade": 3
+            "Grade": 3,
+            "Comment": null
           }
         ],
         "Comment": "O sprint não foi legal. Fiquei com a sensação que poderíamos ter feito bem mais. Não entreguei nada. Tive problemas com a minha máquina."
@@ -2372,22 +2691,26 @@
           {
             "$id": "450",
             "Reviewed": "Heitor Belloni",
-            "Grade": 1
+            "Grade": 1,
+            "Comment": null
           },
           {
             "$id": "451",
             "Reviewed": "Bruno Preima",
-            "Grade": 1
+            "Grade": 1,
+            "Comment": null
           },
           {
             "$id": "452",
             "Reviewed": "Gabriel Leitão",
-            "Grade": 2
+            "Grade": 2,
+            "Comment": null
           },
           {
             "$id": "453",
             "Reviewed": "Thiago Cerutti",
-            "Grade": 1
+            "Grade": 1,
+            "Comment": null
           }
         ],
         "Comment": "O pessoal não tem culpa dos impedimentos, mas tem que reagir melhor a eles. Tenho a impressão de que ficam literalmente travados. Falta um pouco de atitude.No caso do Gabriel acho até que trabalhou bem, mas só deveria fugir do objetivo principal da issue se não abrisse mão do compromisso.Falha forte!"
@@ -2404,22 +2727,26 @@
           {
             "$id": "456",
             "Reviewed": "Heitor Belloni",
-            "Grade": 1
+            "Grade": 1,
+            "Comment": null
           },
           {
             "$id": "457",
             "Reviewed": "Bruno Preima",
-            "Grade": 1
+            "Grade": 1,
+            "Comment": null
           },
           {
             "$id": "458",
             "Reviewed": "Gabriel Leitão",
-            "Grade": 3
+            "Grade": 3,
+            "Comment": null
           },
           {
             "$id": "459",
             "Reviewed": "Thiago Cerutti",
-            "Grade": 1
+            "Grade": 1,
+            "Comment": null
           }
         ],
         "Comment": ""
@@ -2436,22 +2763,26 @@
           {
             "$id": "462",
             "Reviewed": "Heitor Belloni",
-            "Grade": 2
+            "Grade": 2,
+            "Comment": null
           },
           {
             "$id": "463",
             "Reviewed": "Bruno Preima",
-            "Grade": 2
+            "Grade": 2,
+            "Comment": null
           },
           {
             "$id": "464",
             "Reviewed": "Gabriel Leitão",
-            "Grade": 3
+            "Grade": 3,
+            "Comment": null
           },
           {
             "$id": "465",
             "Reviewed": "Thiago Cerutti",
-            "Grade": 3
+            "Grade": 3,
+            "Comment": null
           }
         ],
         "Comment": ""
@@ -2468,22 +2799,26 @@
           {
             "$id": "468",
             "Reviewed": "Heitor Belloni",
-            "Grade": 2
+            "Grade": 2,
+            "Comment": null
           },
           {
             "$id": "469",
             "Reviewed": "Bruno Preima",
-            "Grade": 2
+            "Grade": 2,
+            "Comment": null
           },
           {
             "$id": "470",
             "Reviewed": "Gabriel Leitão",
-            "Grade": 3
+            "Grade": 3,
+            "Comment": null
           },
           {
             "$id": "471",
             "Reviewed": "Thiago Cerutti",
-            "Grade": 3
+            "Grade": 3,
+            "Comment": null
           }
         ],
         "Comment": ""
@@ -2500,22 +2835,26 @@
           {
             "$id": "474",
             "Reviewed": "Heitor Belloni",
-            "Grade": 2
+            "Grade": 2,
+            "Comment": null
           },
           {
             "$id": "475",
             "Reviewed": "Bruno Preima",
-            "Grade": 2
+            "Grade": 2,
+            "Comment": null
           },
           {
             "$id": "476",
             "Reviewed": "Gabriel Leitão",
-            "Grade": 2
+            "Grade": 2,
+            "Comment": null
           },
           {
             "$id": "477",
             "Reviewed": "Thiago Cerutti",
-            "Grade": 3
+            "Grade": 3,
+            "Comment": null
           }
         ],
         "Comment": ""
@@ -2532,22 +2871,26 @@
           {
             "$id": "480",
             "Reviewed": "Heitor Belloni",
-            "Grade": 3
+            "Grade": 3,
+            "Comment": null
           },
           {
             "$id": "481",
             "Reviewed": "Bruno Preima",
-            "Grade": 3
+            "Grade": 3,
+            "Comment": null
           },
           {
             "$id": "482",
             "Reviewed": "Gabriel Leitão",
-            "Grade": 3
+            "Grade": 3,
+            "Comment": null
           },
           {
             "$id": "483",
             "Reviewed": "Thiago Cerutti",
-            "Grade": 3
+            "Grade": 3,
+            "Comment": null
           }
         ],
         "Comment": ""
@@ -2564,22 +2907,26 @@
           {
             "$id": "486",
             "Reviewed": "Heitor Belloni",
-            "Grade": 2
+            "Grade": 2,
+            "Comment": null
           },
           {
             "$id": "487",
             "Reviewed": "Bruno Preima",
-            "Grade": 2
+            "Grade": 2,
+            "Comment": null
           },
           {
             "$id": "488",
             "Reviewed": "Gabriel Leitão",
-            "Grade": 3
+            "Grade": 3,
+            "Comment": null
           },
           {
             "$id": "489",
             "Reviewed": "Thiago Cerutti",
-            "Grade": 3
+            "Grade": 3,
+            "Comment": null
           }
         ],
         "Comment": ""
@@ -2596,22 +2943,26 @@
           {
             "$id": "492",
             "Reviewed": "Heitor Belloni",
-            "Grade": 4
+            "Grade": 4,
+            "Comment": null
           },
           {
             "$id": "493",
             "Reviewed": "Bruno Preima",
-            "Grade": 2
+            "Grade": 2,
+            "Comment": null
           },
           {
             "$id": "494",
             "Reviewed": "Gabriel Leitão",
-            "Grade": 4
+            "Grade": 4,
+            "Comment": null
           },
           {
             "$id": "495",
             "Reviewed": "Thiago Cerutti",
-            "Grade": 4
+            "Grade": 4,
+            "Comment": null
           }
         ],
         "Comment": ""
@@ -2628,25 +2979,83 @@
           {
             "$id": "498",
             "Reviewed": "Heitor Belloni",
-            "Grade": 3
+            "Grade": 3,
+            "Comment": null
           },
           {
             "$id": "499",
             "Reviewed": "Bruno Preima",
-            "Grade": 3
+            "Grade": 3,
+            "Comment": null
           },
           {
             "$id": "500",
             "Reviewed": "Gabriel Leitão",
-            "Grade": 3
+            "Grade": 3,
+            "Comment": null
           },
           {
             "$id": "501",
             "Reviewed": "Thiago Cerutti",
-            "Grade": 3
+            "Grade": 3,
+            "Comment": null
           }
         ],
         "Comment": "Sprint estava bastante pesado e ocorreram muitos impedimentos, porém apesar da falha, todos tiveram uma boa atuação.  "
+      }
+    ]
+  },
+  {
+    "$id": "502",
+    "Name": "Sprint Review - PIM Aplicação - 212",
+    "Reviews": [
+      {
+        "$id": "503",
+        "Reviewer": {
+          "$id": "504",
+          "Name": "André Carlucci",
+          "Email": "andre.carlucci@way2.com.br",
+          "Area": "Tecnologia"
+        },
+        "PersonReviews": [
+          {
+            "$id": "505",
+            "Reviewed": "Bernard Ribeiro",
+            "Grade": 3,
+            "Comment": "asdfasdf asdf sdfdsaasdfasdfasdfasdfasdfasdfadsfa"
+          },
+          {
+            "$id": "506",
+            "Reviewed": "Geciane Junges",
+            "Grade": -1,
+            "Comment": ""
+          },
+          {
+            "$id": "507",
+            "Reviewed": "Michel Barbosa",
+            "Grade": 3,
+            "Comment": "asdfads"
+          },
+          {
+            "$id": "508",
+            "Reviewed": "Ricardo Oliveira",
+            "Grade": 4,
+            "Comment": "asdfdsfa"
+          },
+          {
+            "$id": "509",
+            "Reviewed": "Caliel Costa",
+            "Grade": 2,
+            "Comment": "asdfadf"
+          },
+          {
+            "$id": "510",
+            "Reviewed": "Guilherme Waess",
+            "Grade": 1,
+            "Comment": "asdfadsfad asdfasdf "
+          }
+        ],
+        "Comment": "adsfasdf sd fas faasdfasdf afdasf asfdad"
       }
     ]
   }

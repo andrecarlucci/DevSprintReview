@@ -1,7 +1,6 @@
 using System.Linq;
 using System.Collections.Generic;
 using System.Text;
-using System;
 using DevSprintReview.Entities;
 using MiniBiggy;
 
@@ -28,10 +27,21 @@ namespace DevSprintReview {
         public IndividualReport GenerateIndividualReport(Person person) {
             var sb = new StringBuilder();
             var reviewedName = person.Name;
-            sb.AppendLine($"{reviewedName,-20} Area: {"Self",-15} \t Nota: {Format(CalculeNotaSelf(reviewedName))}");
+            sb.AppendLine(reviewedName);
+            sb.AppendLine($"Area: {"Self",-15} \t Nota: {Format(CalculeNotaSelf(reviewedName))}");
             foreach (var area in _areas) {
                 var nota = CalculeNotaPorDevPorArea(person, area);
-                sb.AppendLine($"{reviewedName,-20} Area: {area,-15} \t Nota: {Format(CalculeNotaPorDevPorArea(person, area))}");
+                sb.AppendLine($"Area: {area,-15} \t Nota: {Format(CalculeNotaPorDevPorArea(person, area))}");
+                var comments = _sprint.Reviews.Where(r => r.Reviewer.Area == area)
+                                              .SelectMany(r => r.PersonReviews.Where(pr => pr.Reviewed == reviewedName)
+                                                                              .Select(pr => pr.Comment));
+                if (comments.Count() == 0) {
+                    continue;
+                }
+                sb.AppendLine($"Comentarios:");
+                foreach (var comment in comments) {
+                    sb.AppendLine(comment);
+                }
             }
             return new IndividualReport { Person = person, Report = sb.ToString() };
         }
@@ -54,6 +64,12 @@ namespace DevSprintReview {
                 sb.AppendLine("----------------------------------------------------------");
             }
             //sb.AppendLine($"{"Time",-20} Area: {"Self",-15} \t Nota: {Format(CalculeNotaTimeSelf())}");
+            sb.AppendLine(GenerateTeamReport());
+            return sb.ToString();
+        }
+
+        public string GenerateTeamReport() {
+            var sb = new StringBuilder();
             foreach (var area in _areas) {
                 sb.AppendLine($"{"Time",-20} Area: {area,-15} \t Nota: {Format(CalculeNotaTimePorArea(area))}");
             }
@@ -63,7 +79,7 @@ namespace DevSprintReview {
 
             sb.AppendLine("----------------------------------------------------------");
             foreach (var review in _sprint.Reviews) {
-                sb.AppendLine($"{review.Reviewer.Name}: {review.Comment}");
+                sb.AppendLine(review.Comment);
             }
             return sb.ToString();
         }

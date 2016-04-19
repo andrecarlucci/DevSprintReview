@@ -8,7 +8,7 @@ namespace DevSprintReview {
             var columns = numCols;
             var lines = total / columns;
 
-            var grid = new string[lines - 1, columns - 1];
+            var grid = new string[lines - 1, columns-1];
             for (int i = 1; i < lines; i++) {
                 for (int j = 1; j < columns; j++) {
                     var m = ((i) * columns) + (j);

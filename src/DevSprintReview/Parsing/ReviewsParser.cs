@@ -18,8 +18,13 @@ namespace DevSprintReview {
                     reviews.Remove(r1);
                 }
                 var review = new Review(reviewer);
-                for (int j = 1; j < grid.GetLength(1)-1; j++) {
-                    review.AddPersonReview(reviewed[j - 1].Name, GradeParser.Parse(grid[i, j]));
+                for (int j = 0; j < reviewed.Count; j++) {
+                    var grade = GradeParser.Parse(grid[i, (j * 2) + 1]);
+                    var comment = grid[i, (j * 2) + 2];
+                    if (grade < 3 && String.IsNullOrEmpty(comment)) {
+                        grade = -1;
+                    }
+                    review.AddPersonReview(reviewed[j].Name, grade, comment);
                 }
                 review.Comment = grid[i, grid.GetLength(1) - 1];
                 reviews.Add(review);

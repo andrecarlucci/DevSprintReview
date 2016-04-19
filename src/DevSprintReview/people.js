@@ -42,7 +42,7 @@
   }
   ,
   {
-      "Name": "Gecieane Junges",
+      "Name": "Geciane Junges",
       "Email": "geciane.junges@way2.com.br",
       "Area": "Desenvolvimento"
   }
@@ -155,5 +155,11 @@
       "Name": "Guilherme Grança",
       "Email": "guilherme.franca@way2.com.br",
       "Area": "SX"
+  }
+  ,
+  {
+      "Name": "André Carlucci",
+      "Email": "andre.carlucci@way2.com.br",
+      "Area": "Tecnologia"
   }
 ]

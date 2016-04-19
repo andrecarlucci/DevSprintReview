@@ -15,7 +15,7 @@
   },
 
   "commands": {
-    "debug": "DevSprintReview \"C:\\Users\\Andre\\OneDrive\\Documentos\\Way2\\Gestao\\Sprint Review\\Sprint Review - PDC - 63.csv\"",
+    "debug": "DevSprintReview \"D:\\SkyDrive\\Documentos\\Way2\\Gestao\\Sprint Review\\Sprint Review - PIM Aplicação - 212.csv\"",
     "review": "DevSprintReview"
   },
 

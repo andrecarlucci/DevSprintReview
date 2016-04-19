@@ -16,8 +16,8 @@ namespace DevSprintReview.Entities {
             Reviewer = reviewer;
         }
 
-        public void AddPersonReview(string reviewed, int grade) {
-            PersonReviews.Add(new PersonReview(reviewed, grade));
+        public void AddPersonReview(string reviewed, int grade, string comment = "") {
+            PersonReviews.Add(new PersonReview(reviewed, grade, comment));
         }
     }
 }

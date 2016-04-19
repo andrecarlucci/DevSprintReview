@@ -12,7 +12,7 @@ namespace DevSprintReview {
     public class Program {
         public static void Main(string[] args) {
             bool sendmail = false;
-            
+
             var filename = args[0];
             var lines = File.ReadAllLines(filename);
 
@@ -31,7 +31,7 @@ namespace DevSprintReview {
             var file = File.ReadAllText(filename);
             file = CommentFixer.RemoveNewLinesFromComments(file);
             var reviewed = ReviewedParser.Parse(file, pessoas);
-            var grid = FileToGrid.ToGrid(file, reviewed.Count + 3);
+            var grid = FileToGrid.ToGrid(file, (reviewed.Count * 2) + 3);
 
             var reviews = ReviewsParser.Parse(grid, reviewed, pessoas);
 
@@ -51,6 +51,7 @@ namespace DevSprintReview {
             Console.WriteLine(report);
             sprints.Save();
 
+
             if (!sendmail) {
                 return;
             }
@@ -60,11 +61,14 @@ namespace DevSprintReview {
                 var individualReport = report.GenerateIndividualReport(person);
                 Console.Write($"{person.Name}: {person.Email} sending...");
                 EmailSender.Send(person.Email, person.Name,
-                    sprintName, 
+                    sprintName,
                     String.Format(EmailTemplate, individualReport.Person.Name, individualReport.Report)
                 );
                 Console.WriteLine("OK!");
             }
+
+            Console.WriteLine("Email para o time (este nao foi eh enviado automaticamente, pois faltam dados)");
+            Console.WriteLine(EmailTemplateTime);
         }
 
         public static string EmailTemplate = @"Olá {0},
@@ -87,6 +91,37 @@ Qualquer dúvida é só falar.
 Atenciosamente,
 
 André Carlucci
+";
+
+
+        public static string EmailTemplateTime = @"Senhores(as),
+
+Segue a review geral por área do Sprint. Os desenvolvedores já receberam suas individuais e aqui vai a geral.
+As notas estão agrupadas por área usando média simples de todas as pessoas da área e a regra de notas é a seguinte:
+
+
+Deixou a desejar: 1
+Poderia ter feito mais: 2
+Boa atuação: 3
+Excelente: 4
+
+Suas notas por área (self é a sua própria avaliação):
+
+{1}
+
+Sobre o aproveitamento do tempo, temos:
+
+
+Nos comentários abertos, houveram essas sugestões de melhoria ou comentários ao time:
+
+-
+
+Qualquer dúvida é só falar.
+
+Atenciosamente,
+
+André Carlucci
+
 ";
     }
 }
