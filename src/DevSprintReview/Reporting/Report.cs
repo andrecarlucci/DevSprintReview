@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Text;
 using DevSprintReview.Entities;
 using MiniBiggy;
+using System;
 
 namespace DevSprintReview {
     public class Report {
@@ -11,7 +12,7 @@ namespace DevSprintReview {
         private HashSet<string> _areas;
         private List<Person> _reviewed;
         private PersistentList<Person> _pessoas;
-        
+
         public Report(Sprint sprint, PersistentList<Person> pessoas) {
             _sprint = sprint;
             _pessoas = pessoas;
@@ -31,13 +32,13 @@ namespace DevSprintReview {
             sb.AppendLine($"Area: {"Self",-15} \t Nota: {Format(CalculeNotaSelf(reviewedName))}");
             foreach (var area in _areas) {
                 var nota = CalculeNotaPorDevPorArea(person, area);
-                sb.AppendLine($"Area: {area,-15} \t Nota: {Format(CalculeNotaPorDevPorArea(person, area))}");
-                var comments = _sprint.Reviews.Where(r => r.Reviewer.Area == area)
-                                              .SelectMany(r => r.PersonReviews.Where(pr => pr.Reviewed == reviewedName)
-                                                                              .Select(pr => pr.Comment));
-                if (comments.Count() == 0) {
-                    continue;
-                }
+                sb.AppendLine($"Area: {area,-15} \t Nota: {Format(nota)}");
+
+            }
+            var comments = _sprint.Reviews.SelectMany(r => r.PersonReviews.Where(pr => pr.Reviewed == reviewedName && !String.IsNullOrEmpty(pr.Comment))
+                                                                          .Select(pr => pr.Comment));
+            if (comments.Count() > 0) {
+                sb.AppendLine();
                 sb.AppendLine($"Comentarios:");
                 foreach (var comment in comments) {
                     sb.AppendLine(comment);
@@ -75,18 +76,23 @@ namespace DevSprintReview {
             }
             sb.AppendLine($"{"Time",-20} Area: {"Todas",-15} \t Nota: {Format(CalculeNotaTime())}");
             sb.AppendLine("----------------------------------------------------------");
-            sb.AppendLine("Comentarios");
 
-            sb.AppendLine("----------------------------------------------------------");
-            foreach (var review in _sprint.Reviews) {
-                sb.AppendLine(review.Comment);
+            var comments = _sprint.Reviews.Where(r => !String.IsNullOrEmpty(r.Comment))
+                                          .Select(r => r.Comment);
+
+            if (comments.Count() > 0) {
+                sb.AppendLine("Comentarios");
+                sb.AppendLine("----------------------------------------------------------");
+                foreach (var review in _sprint.Reviews) {
+                    sb.AppendLine(review.Comment);
+                }
             }
             return sb.ToString();
         }
 
         private double CalculeNotaTimeSelf() {
             var notas = _reviewed.Select(r => CalculeNotaSelf(r.Name)).Where(n => n > 0);
-            return (double) notas.Sum() / notas.Count();
+            return (double)notas.Sum() / notas.Count();
         }
 
         private string Format(double nota) {
@@ -133,7 +139,7 @@ namespace DevSprintReview {
             var prs = _sprint.Reviews.SelectMany(r => r.PersonReviews).Where(pr => pr.Grade > 0);
             var items = prs.Count();
             var total = prs.Sum(e => e.Grade);
-            return ((double) total) / items;
+            return ((double)total) / items;
         }
     }
 

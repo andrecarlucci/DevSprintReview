@@ -11,7 +11,11 @@ using DevSprintReview.Mails;
 namespace DevSprintReview {
     public class Program {
         public static void Main(string[] args) {
-            bool sendmail = false;
+            if (args.Length == 0) {
+                Console.WriteLine("Please, specify a review csv file.");
+                return;
+            }
+            var sendmail = false;
 
             var filename = args[0];
             var lines = File.ReadAllLines(filename);
@@ -51,8 +55,18 @@ namespace DevSprintReview {
             Console.WriteLine(report);
             sprints.Save();
 
-
             if (!sendmail) {
+                Console.WriteLine("E-mails NOT SENT:");
+
+                foreach (var person in reviewed) {
+                    var individualReport = report.GenerateIndividualReport(person);
+                    Console.WriteLine("-----------------------------------------------------------------");
+                    Console.WriteLine(String.Format(EmailTemplate, individualReport.Person.Name, individualReport.Report));
+                }
+                Console.WriteLine("-----------------------------------------------------------------");
+
+                var teamReport = report.GenerateTeamReport();
+                Console.WriteLine(String.Format(EmailTemplateTime, teamReport));
                 return;
             }
             Console.WriteLine("Sending e-mails:");
@@ -66,9 +80,6 @@ namespace DevSprintReview {
                 );
                 Console.WriteLine("OK!");
             }
-
-            Console.WriteLine("Email para o time (este nao foi eh enviado automaticamente, pois faltam dados)");
-            Console.WriteLine(EmailTemplateTime);
         }
 
         public static string EmailTemplate = @"Olá {0},
@@ -105,16 +116,13 @@ Poderia ter feito mais: 2
 Boa atuação: 3
 Excelente: 4
 
-Suas notas por área (self é a sua própria avaliação):
+Suas notas por área:
 
-{1}
+{0}
 
 Sobre o aproveitamento do tempo, temos:
 
-
-Nos comentários abertos, houveram essas sugestões de melhoria ou comentários ao time:
-
--
+XXXX
 
 Qualquer dúvida é só falar.
 

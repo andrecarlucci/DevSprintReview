@@ -3013,49 +3013,1213 @@
         "$id": "503",
         "Reviewer": {
           "$id": "504",
-          "Name": "André Carlucci",
-          "Email": "andre.carlucci@way2.com.br",
-          "Area": "Tecnologia"
+          "Name": "Diego Coelho",
+          "Email": "diego.coelho@way2.com.br",
+          "Area": "Produtos"
         },
         "PersonReviews": [
           {
             "$id": "505",
             "Reviewed": "Bernard Ribeiro",
             "Grade": 3,
-            "Comment": "asdfasdf asdf sdfdsaasdfasdfasdfasdfasdfasdfadsfa"
+            "Comment": "Bernard trabalha bem, porém últimamente sua produtividade estava um pouco abaixo do que realmente ele consegue entregar. Neste sprint em questão melhorou bastante e a integração com os outros devs vem colaborando para a disseminação do conhecimento."
           },
           {
             "$id": "506",
             "Reviewed": "Geciane Junges",
-            "Grade": -1,
+            "Grade": 4,
             "Comment": ""
           },
           {
             "$id": "507",
             "Reviewed": "Michel Barbosa",
             "Grade": 3,
-            "Comment": "asdfads"
+            "Comment": "Michel é bem rápido e detalhista codando, porém neste e nos últimos dois sprints vem ficando somente nos code reviews, o que impacta significativamente nas entregas. Acho que devemos balancear um pouco mais neste quesito."
           },
           {
             "$id": "508",
             "Reviewed": "Ricardo Oliveira",
             "Grade": 4,
-            "Comment": "asdfdsfa"
+            "Comment": ""
           },
           {
             "$id": "509",
             "Reviewed": "Caliel Costa",
-            "Grade": 2,
-            "Comment": "asdfadf"
+            "Grade": 3,
+            "Comment": ""
           },
           {
             "$id": "510",
             "Reviewed": "Guilherme Waess",
-            "Grade": 1,
-            "Comment": "asdfadsfad asdfasdf "
+            "Grade": 4,
+            "Comment": ""
           }
         ],
-        "Comment": "adsfasdf sd fas faasdfasdf afdasf asfdad"
+        "Comment": ""
+      },
+      {
+        "$id": "511",
+        "Reviewer": {
+          "$id": "512",
+          "Name": "Geciane Junges",
+          "Email": "geciane.junges@way2.com.br",
+          "Area": "Desenvolvimento"
+        },
+        "PersonReviews": [
+          {
+            "$id": "513",
+            "Reviewed": "Bernard Ribeiro",
+            "Grade": 3,
+            "Comment": ""
+          },
+          {
+            "$id": "514",
+            "Reviewed": "Geciane Junges",
+            "Grade": 3,
+            "Comment": ""
+          },
+          {
+            "$id": "515",
+            "Reviewed": "Michel Barbosa",
+            "Grade": 3,
+            "Comment": ""
+          },
+          {
+            "$id": "516",
+            "Reviewed": "Ricardo Oliveira",
+            "Grade": 3,
+            "Comment": ""
+          },
+          {
+            "$id": "517",
+            "Reviewed": "Caliel Costa",
+            "Grade": 3,
+            "Comment": ""
+          },
+          {
+            "$id": "518",
+            "Reviewed": "Guilherme Waess",
+            "Grade": 3,
+            "Comment": ""
+          }
+        ],
+        "Comment": ""
+      },
+      {
+        "$id": "519",
+        "Reviewer": {
+          "$id": "520",
+          "Name": "Valder Zacarkim",
+          "Email": "valder@way2.com.br",
+          "Area": "Projetos"
+        },
+        "PersonReviews": [
+          {
+            "$id": "521",
+            "Reviewed": "Bernard Ribeiro",
+            "Grade": -1,
+            "Comment": ""
+          },
+          {
+            "$id": "522",
+            "Reviewed": "Geciane Junges",
+            "Grade": -1,
+            "Comment": "Trabalhou em backend e não tinha o que apresentar. Não sei como julgar esta situação já que não houve apresentação."
+          },
+          {
+            "$id": "523",
+            "Reviewed": "Michel Barbosa",
+            "Grade": 3,
+            "Comment": ""
+          },
+          {
+            "$id": "524",
+            "Reviewed": "Ricardo Oliveira",
+            "Grade": 3,
+            "Comment": ""
+          },
+          {
+            "$id": "525",
+            "Reviewed": "Caliel Costa",
+            "Grade": 4,
+            "Comment": "Contextualizou o problema e a solução dando enfoque no valor. Continue assim. Parabéns! "
+          },
+          {
+            "$id": "526",
+            "Reviewed": "Guilherme Waess",
+            "Grade": -1,
+            "Comment": ""
+          }
+        ],
+        "Comment": "O time está se preparando para a apresentação, buscando apresentar o problema e solução a partir da criação de cenários no PIM.Como 'cliente', é muito bom participar de reuniões onde se percebe que o time 'fornecedor da solução' se preocupou com a apresentação da solução. Por consequência, deixamos de ir para mais uma reunião ' :/ ' e passamos a participar de um evento de entrega ' :P '. Parabéns a todos!"
+      },
+      {
+        "$id": "527",
+        "Reviewer": {
+          "$id": "528",
+          "Name": "Jefferson Kobs",
+          "Email": "jefferson.kobs@way2.com.br",
+          "Area": "Produtos"
+        },
+        "PersonReviews": [
+          {
+            "$id": "529",
+            "Reviewed": "Bernard Ribeiro",
+            "Grade": 3,
+            "Comment": ""
+          },
+          {
+            "$id": "530",
+            "Reviewed": "Geciane Junges",
+            "Grade": 4,
+            "Comment": ""
+          },
+          {
+            "$id": "531",
+            "Reviewed": "Michel Barbosa",
+            "Grade": 3,
+            "Comment": ""
+          },
+          {
+            "$id": "532",
+            "Reviewed": "Ricardo Oliveira",
+            "Grade": 3,
+            "Comment": ""
+          },
+          {
+            "$id": "533",
+            "Reviewed": "Caliel Costa",
+            "Grade": 4,
+            "Comment": ""
+          },
+          {
+            "$id": "534",
+            "Reviewed": "Guilherme Waess",
+            "Grade": 3,
+            "Comment": ""
+          }
+        ],
+        "Comment": ""
+      },
+      {
+        "$id": "535",
+        "Reviewer": {
+          "$id": "536",
+          "Name": "Ricardo Oliveira",
+          "Email": "ext-ricardo.oliveira@way2.com.br",
+          "Area": "Desenvolvimento"
+        },
+        "PersonReviews": [
+          {
+            "$id": "537",
+            "Reviewed": "Bernard Ribeiro",
+            "Grade": 3,
+            "Comment": ""
+          },
+          {
+            "$id": "538",
+            "Reviewed": "Geciane Junges",
+            "Grade": 3,
+            "Comment": ""
+          },
+          {
+            "$id": "539",
+            "Reviewed": "Michel Barbosa",
+            "Grade": 3,
+            "Comment": ""
+          },
+          {
+            "$id": "540",
+            "Reviewed": "Ricardo Oliveira",
+            "Grade": 3,
+            "Comment": ""
+          },
+          {
+            "$id": "541",
+            "Reviewed": "Caliel Costa",
+            "Grade": 3,
+            "Comment": ""
+          },
+          {
+            "$id": "542",
+            "Reviewed": "Guilherme Waess",
+            "Grade": 3,
+            "Comment": ""
+          }
+        ],
+        "Comment": "Acho que o ritmo do time está um pouco abaixo do esperado devido as recentes mudanças dos membros. Nas próximas sprints, com mais entrosamento, a produtividade tende a aumentar."
+      },
+      {
+        "$id": "543",
+        "Reviewer": {
+          "$id": "544",
+          "Name": "Michel Barbosa",
+          "Email": "michel.barbosa@way2.com.br",
+          "Area": "Desenvolvimento"
+        },
+        "PersonReviews": [
+          {
+            "$id": "545",
+            "Reviewed": "Bernard Ribeiro",
+            "Grade": 3,
+            "Comment": ""
+          },
+          {
+            "$id": "546",
+            "Reviewed": "Geciane Junges",
+            "Grade": 3,
+            "Comment": ""
+          },
+          {
+            "$id": "547",
+            "Reviewed": "Michel Barbosa",
+            "Grade": 3,
+            "Comment": ""
+          },
+          {
+            "$id": "548",
+            "Reviewed": "Ricardo Oliveira",
+            "Grade": 3,
+            "Comment": ""
+          },
+          {
+            "$id": "549",
+            "Reviewed": "Caliel Costa",
+            "Grade": 3,
+            "Comment": ""
+          },
+          {
+            "$id": "550",
+            "Reviewed": "Guilherme Waess",
+            "Grade": 3,
+            "Comment": ""
+          }
+        ],
+        "Comment": ""
+      },
+      {
+        "$id": "551",
+        "Reviewer": {
+          "$id": "552",
+          "Name": "Caliel Costa",
+          "Email": "caliel.costa@way2.com.br",
+          "Area": "Desenvolvimento"
+        },
+        "PersonReviews": [
+          {
+            "$id": "553",
+            "Reviewed": "Bernard Ribeiro",
+            "Grade": 3,
+            "Comment": ""
+          },
+          {
+            "$id": "554",
+            "Reviewed": "Geciane Junges",
+            "Grade": 3,
+            "Comment": ""
+          },
+          {
+            "$id": "555",
+            "Reviewed": "Michel Barbosa",
+            "Grade": 4,
+            "Comment": ""
+          },
+          {
+            "$id": "556",
+            "Reviewed": "Ricardo Oliveira",
+            "Grade": 3,
+            "Comment": ""
+          },
+          {
+            "$id": "557",
+            "Reviewed": "Caliel Costa",
+            "Grade": 3,
+            "Comment": ""
+          },
+          {
+            "$id": "558",
+            "Reviewed": "Guilherme Waess",
+            "Grade": 3,
+            "Comment": ""
+          }
+        ],
+        "Comment": "Fisicamente o Guilherme e o Ricardo estão em lados diferentes da mesa (com relação aos outros) deixando-os mais afastados"
+      },
+      {
+        "$id": "559",
+        "Reviewer": {
+          "$id": "560",
+          "Name": "Marcel de Castilho",
+          "Email": "marcel@way2.com.br",
+          "Area": "Desenvolvimento"
+        },
+        "PersonReviews": [
+          {
+            "$id": "561",
+            "Reviewed": "Bernard Ribeiro",
+            "Grade": 3,
+            "Comment": ""
+          },
+          {
+            "$id": "562",
+            "Reviewed": "Geciane Junges",
+            "Grade": 3,
+            "Comment": ""
+          },
+          {
+            "$id": "563",
+            "Reviewed": "Michel Barbosa",
+            "Grade": 3,
+            "Comment": ""
+          },
+          {
+            "$id": "564",
+            "Reviewed": "Ricardo Oliveira",
+            "Grade": 3,
+            "Comment": ""
+          },
+          {
+            "$id": "565",
+            "Reviewed": "Caliel Costa",
+            "Grade": 3,
+            "Comment": ""
+          },
+          {
+            "$id": "566",
+            "Reviewed": "Guilherme Waess",
+            "Grade": 3,
+            "Comment": ""
+          }
+        ],
+        "Comment": "Faltou pouco mas o time se esforçou."
+      },
+      {
+        "$id": "567",
+        "Reviewer": {
+          "$id": "568",
+          "Name": "Jonatas Reinert",
+          "Email": "jonatas@way2.com.br",
+          "Area": "Suporte"
+        },
+        "PersonReviews": [
+          {
+            "$id": "569",
+            "Reviewed": "Bernard Ribeiro",
+            "Grade": 3,
+            "Comment": ""
+          },
+          {
+            "$id": "570",
+            "Reviewed": "Geciane Junges",
+            "Grade": 3,
+            "Comment": ""
+          },
+          {
+            "$id": "571",
+            "Reviewed": "Michel Barbosa",
+            "Grade": 3,
+            "Comment": ""
+          },
+          {
+            "$id": "572",
+            "Reviewed": "Ricardo Oliveira",
+            "Grade": 3,
+            "Comment": ""
+          },
+          {
+            "$id": "573",
+            "Reviewed": "Caliel Costa",
+            "Grade": 3,
+            "Comment": ""
+          },
+          {
+            "$id": "574",
+            "Reviewed": "Guilherme Waess",
+            "Grade": 3,
+            "Comment": ""
+          }
+        ],
+        "Comment": ""
+      },
+      {
+        "$id": "575",
+        "Reviewer": {
+          "$id": "576",
+          "Name": "Bernard Ribeiro",
+          "Email": "bernard.ribeiro@way2.com.br",
+          "Area": "Desenvolvimento"
+        },
+        "PersonReviews": [
+          {
+            "$id": "577",
+            "Reviewed": "Bernard Ribeiro",
+            "Grade": 3,
+            "Comment": ""
+          },
+          {
+            "$id": "578",
+            "Reviewed": "Geciane Junges",
+            "Grade": 3,
+            "Comment": ""
+          },
+          {
+            "$id": "579",
+            "Reviewed": "Michel Barbosa",
+            "Grade": 3,
+            "Comment": ""
+          },
+          {
+            "$id": "580",
+            "Reviewed": "Ricardo Oliveira",
+            "Grade": 3,
+            "Comment": ""
+          },
+          {
+            "$id": "581",
+            "Reviewed": "Caliel Costa",
+            "Grade": 3,
+            "Comment": "Se dedicou muito pra concluir suas issues antes da demo"
+          },
+          {
+            "$id": "582",
+            "Reviewed": "Guilherme Waess",
+            "Grade": 3,
+            "Comment": ""
+          }
+        ],
+        "Comment": ""
+      },
+      {
+        "$id": "583",
+        "Reviewer": {
+          "$id": "584",
+          "Name": "Guilherme Waess",
+          "Email": "guilherme.waess@way2.com.br",
+          "Area": "Desenvolvimento"
+        },
+        "PersonReviews": [
+          {
+            "$id": "585",
+            "Reviewed": "Bernard Ribeiro",
+            "Grade": 3,
+            "Comment": ""
+          },
+          {
+            "$id": "586",
+            "Reviewed": "Geciane Junges",
+            "Grade": 3,
+            "Comment": ""
+          },
+          {
+            "$id": "587",
+            "Reviewed": "Michel Barbosa",
+            "Grade": 3,
+            "Comment": ""
+          },
+          {
+            "$id": "588",
+            "Reviewed": "Ricardo Oliveira",
+            "Grade": 3,
+            "Comment": ""
+          },
+          {
+            "$id": "589",
+            "Reviewed": "Caliel Costa",
+            "Grade": 3,
+            "Comment": ""
+          },
+          {
+            "$id": "590",
+            "Reviewed": "Guilherme Waess",
+            "Grade": -1,
+            "Comment": ""
+          }
+        ],
+        "Comment": ""
+      },
+      {
+        "$id": "591",
+        "Reviewer": {
+          "$id": "592",
+          "Name": "Heloisa Gloria",
+          "Email": "heloisa@way2.com.br",
+          "Area": "Projetos"
+        },
+        "PersonReviews": [
+          {
+            "$id": "593",
+            "Reviewed": "Bernard Ribeiro",
+            "Grade": 3,
+            "Comment": ""
+          },
+          {
+            "$id": "594",
+            "Reviewed": "Geciane Junges",
+            "Grade": 4,
+            "Comment": ""
+          },
+          {
+            "$id": "595",
+            "Reviewed": "Michel Barbosa",
+            "Grade": 3,
+            "Comment": ""
+          },
+          {
+            "$id": "596",
+            "Reviewed": "Ricardo Oliveira",
+            "Grade": 3,
+            "Comment": ""
+          },
+          {
+            "$id": "597",
+            "Reviewed": "Caliel Costa",
+            "Grade": 3,
+            "Comment": ""
+          },
+          {
+            "$id": "598",
+            "Reviewed": "Guilherme Waess",
+            "Grade": 3,
+            "Comment": ""
+          }
+        ],
+        "Comment": ""
+      }
+    ]
+  },
+  {
+    "$id": "599",
+    "Name": "Sprint Review - PDC - 65",
+    "Reviews": [
+      {
+        "$id": "600",
+        "Reviewer": {
+          "$id": "601",
+          "Name": "David Desmaisons",
+          "Email": "david.desmaisons@way2.com.br",
+          "Area": "Desenvolvimento"
+        },
+        "PersonReviews": [
+          {
+            "$id": "602",
+            "Reviewed": "Fernando Bassani",
+            "Grade": 3,
+            "Comment": ""
+          },
+          {
+            "$id": "603",
+            "Reviewed": "Rodrigo Freitas",
+            "Grade": 3,
+            "Comment": ""
+          },
+          {
+            "$id": "604",
+            "Reviewed": "Roger Weber",
+            "Grade": 3,
+            "Comment": ""
+          },
+          {
+            "$id": "605",
+            "Reviewed": "Douglas Hinckel",
+            "Grade": 3,
+            "Comment": ""
+          },
+          {
+            "$id": "606",
+            "Reviewed": "David Desmaisons",
+            "Grade": 3,
+            "Comment": ""
+          }
+        ],
+        "Comment": ""
+      },
+      {
+        "$id": "607",
+        "Reviewer": {
+          "$id": "608",
+          "Name": "Douglas Hinckel",
+          "Email": "douglas.martins@way2.com.br",
+          "Area": "Desenvolvimento"
+        },
+        "PersonReviews": [
+          {
+            "$id": "609",
+            "Reviewed": "Fernando Bassani",
+            "Grade": 3,
+            "Comment": ""
+          },
+          {
+            "$id": "610",
+            "Reviewed": "Rodrigo Freitas",
+            "Grade": 3,
+            "Comment": ""
+          },
+          {
+            "$id": "611",
+            "Reviewed": "Roger Weber",
+            "Grade": 3,
+            "Comment": ""
+          },
+          {
+            "$id": "612",
+            "Reviewed": "Douglas Hinckel",
+            "Grade": 3,
+            "Comment": ""
+          },
+          {
+            "$id": "613",
+            "Reviewed": "David Desmaisons",
+            "Grade": 3,
+            "Comment": "Prestar mais atenção nas dailys"
+          }
+        ],
+        "Comment": ""
+      },
+      {
+        "$id": "614",
+        "Reviewer": {
+          "$id": "615",
+          "Name": "Fernando Bassani",
+          "Email": "fernando.bassani@way2.com.br",
+          "Area": "Desenvolvimento"
+        },
+        "PersonReviews": [
+          {
+            "$id": "616",
+            "Reviewed": "Fernando Bassani",
+            "Grade": 3,
+            "Comment": ""
+          },
+          {
+            "$id": "617",
+            "Reviewed": "Rodrigo Freitas",
+            "Grade": 3,
+            "Comment": ""
+          },
+          {
+            "$id": "618",
+            "Reviewed": "Roger Weber",
+            "Grade": 3,
+            "Comment": ""
+          },
+          {
+            "$id": "619",
+            "Reviewed": "Douglas Hinckel",
+            "Grade": 3,
+            "Comment": "Ajudou bastante ajustando os builds no TC. Parabéns pelo esforço!"
+          },
+          {
+            "$id": "620",
+            "Reviewed": "David Desmaisons",
+            "Grade": 2,
+            "Comment": "Parece estar gastando muito tempo em coisas fora do sprint/Way2. Durante o planejamento, por exemplo, esteve envolvido com outra coisa em seu computador. "
+          }
+        ],
+        "Comment": ""
+      },
+      {
+        "$id": "621",
+        "Reviewer": {
+          "$id": "622",
+          "Name": "Jefferson Kobs",
+          "Email": "jefferson.kobs@way2.com.br",
+          "Area": "Produtos"
+        },
+        "PersonReviews": [
+          {
+            "$id": "623",
+            "Reviewed": "Fernando Bassani",
+            "Grade": -1,
+            "Comment": ""
+          },
+          {
+            "$id": "624",
+            "Reviewed": "Rodrigo Freitas",
+            "Grade": -1,
+            "Comment": ""
+          },
+          {
+            "$id": "625",
+            "Reviewed": "Roger Weber",
+            "Grade": -1,
+            "Comment": ""
+          },
+          {
+            "$id": "626",
+            "Reviewed": "Douglas Hinckel",
+            "Grade": -1,
+            "Comment": ""
+          },
+          {
+            "$id": "627",
+            "Reviewed": "David Desmaisons",
+            "Grade": -1,
+            "Comment": ""
+          }
+        ],
+        "Comment": ""
+      },
+      {
+        "$id": "628",
+        "Reviewer": {
+          "$id": "629",
+          "Name": "Rodrigo Freitas",
+          "Email": "rodrigo.freitas@way2.com.br",
+          "Area": "Desenvolvimento"
+        },
+        "PersonReviews": [
+          {
+            "$id": "630",
+            "Reviewed": "Fernando Bassani",
+            "Grade": 3,
+            "Comment": ""
+          },
+          {
+            "$id": "631",
+            "Reviewed": "Rodrigo Freitas",
+            "Grade": 3,
+            "Comment": ""
+          },
+          {
+            "$id": "632",
+            "Reviewed": "Roger Weber",
+            "Grade": 3,
+            "Comment": ""
+          },
+          {
+            "$id": "633",
+            "Reviewed": "Douglas Hinckel",
+            "Grade": 3,
+            "Comment": ""
+          },
+          {
+            "$id": "634",
+            "Reviewed": "David Desmaisons",
+            "Grade": 3,
+            "Comment": ""
+          }
+        ],
+        "Comment": ""
+      },
+      {
+        "$id": "635",
+        "Reviewer": {
+          "$id": "636",
+          "Name": "Roger Weber",
+          "Email": "roger.weber@way2.com.br",
+          "Area": "Desenvolvimento"
+        },
+        "PersonReviews": [
+          {
+            "$id": "637",
+            "Reviewed": "Fernando Bassani",
+            "Grade": 3,
+            "Comment": ""
+          },
+          {
+            "$id": "638",
+            "Reviewed": "Rodrigo Freitas",
+            "Grade": 3,
+            "Comment": ""
+          },
+          {
+            "$id": "639",
+            "Reviewed": "Roger Weber",
+            "Grade": 3,
+            "Comment": ""
+          },
+          {
+            "$id": "640",
+            "Reviewed": "Douglas Hinckel",
+            "Grade": 3,
+            "Comment": ""
+          },
+          {
+            "$id": "641",
+            "Reviewed": "David Desmaisons",
+            "Grade": 3,
+            "Comment": ""
+          }
+        ],
+        "Comment": ""
+      },
+      {
+        "$id": "642",
+        "Reviewer": {
+          "$id": "643",
+          "Name": "Danilo Barbosa",
+          "Email": "danilo@way2.com.br",
+          "Area": "Produtos"
+        },
+        "PersonReviews": [
+          {
+            "$id": "644",
+            "Reviewed": "Fernando Bassani",
+            "Grade": 4,
+            "Comment": "Difícil avaliar porque foi muito estrutural o desenvolvimento. A descrição foi promissora.."
+          },
+          {
+            "$id": "645",
+            "Reviewed": "Rodrigo Freitas",
+            "Grade": 2,
+            "Comment": "O Rodrigo é bom. Mas ainda dá aquela impressão de que entrou há pouco tempo e está se contextualizando. Tenho certeza de que pode puxar mais."
+          },
+          {
+            "$id": "646",
+            "Reviewed": "Roger Weber",
+            "Grade": 4,
+            "Comment": ""
+          },
+          {
+            "$id": "647",
+            "Reviewed": "Douglas Hinckel",
+            "Grade": 3,
+            "Comment": ""
+          },
+          {
+            "$id": "648",
+            "Reviewed": "David Desmaisons",
+            "Grade": 3,
+            "Comment": ""
+          }
+        ],
+        "Comment": ""
+      },
+      {
+        "$id": "649",
+        "Reviewer": {
+          "$id": "650",
+          "Name": "Adrisson Floriano",
+          "Email": "adrisson.floriano@way2.com.br",
+          "Area": "Produtos"
+        },
+        "PersonReviews": [
+          {
+            "$id": "651",
+            "Reviewed": "Fernando Bassani",
+            "Grade": 3,
+            "Comment": "Quem diria que de toda aquela confusão e desespero, saiu uma estratégia bem traçada para o tempo real em paralelo com os outros comandos?Nada que dois sprints e muitas issues criadas não resolvam!Ótimo trabalho, Bassani!"
+          },
+          {
+            "$id": "652",
+            "Reviewed": "Rodrigo Freitas",
+            "Grade": 3,
+            "Comment": "Como sempre, dedicado e independente. Só me preocupou o desentendimento em relação às issues das constantes de grandezas.Gostaria de mais uma vez, colocar à disposição, toda a equipe de produtos.Eventuais desentendimentos podem acontecer, e espero que este tenha sido um fato isolado. De minha parte, vou me esforçar para não deixar requisitos ambíguos, mas por favor, jamais hesite em tirar quaisquer dúvidas, caso algo não tenha ficado claro. Estamos aqui para ajudá-los com quaisquer regras de negócio."
+          },
+          {
+            "$id": "653",
+            "Reviewed": "Roger Weber",
+            "Grade": 3,
+            "Comment": "Tem mostrado muita proatividade! Tomando a responsabilidades de algumas frentes (primeiramente os eventos de coleta, depois sag/swell) para si! Boa Roger!Um detalhe pequeno e que foi pouco reforçado, mas podemos aproveitar o espaço. Ao finalizar um bug, atualizar o campo 'Causa Raiz'."
+          },
+          {
+            "$id": "654",
+            "Reviewed": "Douglas Hinckel",
+            "Grade": 3,
+            "Comment": "Ótimas contribuições com a automação dos processos!Apenas gostaria de ressaltar a importância de alinharmos as expectativa. Podemos e devemos, reservar algum tempo nos sprints para este tipo de melhoria, mas é importante adequar nossos objetivos em relação a valor, a fim de não chegar ao final do sprint sem entregas que estavam sendo esperadas e com um valor diferente do que foi acordado.No mais, pode contar com a ajuda do time de produtos, para investirmos algum tempo na melhoria dos nossos processos.Parabéns pela iniciativa!"
+          },
+          {
+            "$id": "655",
+            "Reviewed": "David Desmaisons",
+            "Grade": 3,
+            "Comment": "Cada vez mais autônomo e com capacidade de lidar com issues mais complexas. Salvo engano, nesse sprint foi sua primeira issue de bug, não diretamente relacionado à seus desenvolvimento.Boa!Um detalhe é que faltou os comentários nas issues das grandezas, que eram, a rigor, definition of done. Mas não é nada que não possa ser feito agora.Outro detalhe pequeno e que foi pouco reforçado, mas podemos aproveitar o espaço. Ao finalizar um bug, atualizar o campo 'Causa Raiz'.Algo que me preocupou um pouco foi o desentendimento em relação às issues das constantes de grandezas.Gostaria de mais uma vez, colocar à disposição, toda a equipe de produtos.Eventuais desentendimentos podem acontecer, e espero que este tenha sido um fato isolado. De minha parte, vou me esforçar para não deixar requisitos ambíguos, mas por favor, jamais hesite em tirar quaisquer dúvidas, caso algo não tenha ficado claro. Estamos aqui para ajudá-los com quaisquer regras de negócio."
+          }
+        ],
+        "Comment": "Parabéns a todos pelo sucesso e pelo novo record!Por curiosidade, seguem alguns números da PdC.Sprints(desde que voltamos a trabalhar com sucessos e falhas): 14Sucessos: 9Falhas: 5Saldo acumulado: + 32 SP"
+      }
+    ]
+  },
+  {
+    "$id": "656",
+    "Name": "Sprint Review - PIM Infra - 26",
+    "Reviews": [
+      {
+        "$id": "657",
+        "Reviewer": {
+          "$id": "658",
+          "Name": "Diego Coelho",
+          "Email": "diego.coelho@way2.com.br",
+          "Area": "Produtos"
+        },
+        "PersonReviews": [
+          {
+            "$id": "659",
+            "Reviewed": "Heitor Belloni",
+            "Grade": 4,
+            "Comment": ""
+          },
+          {
+            "$id": "660",
+            "Reviewed": "Gabriel Leitão",
+            "Grade": 4,
+            "Comment": ""
+          },
+          {
+            "$id": "661",
+            "Reviewed": "Bruno Preima",
+            "Grade": 4,
+            "Comment": ""
+          },
+          {
+            "$id": "662",
+            "Reviewed": "Thiago Cerutti",
+            "Grade": 4,
+            "Comment": ""
+          }
+        ],
+        "Comment": ""
+      },
+      {
+        "$id": "663",
+        "Reviewer": {
+          "$id": "664",
+          "Name": "Heitor Belloni",
+          "Email": "heitor.belloni@way2.com.br",
+          "Area": "Desenvolvimento"
+        },
+        "PersonReviews": [
+          {
+            "$id": "665",
+            "Reviewed": "Heitor Belloni",
+            "Grade": 3,
+            "Comment": ""
+          },
+          {
+            "$id": "666",
+            "Reviewed": "Gabriel Leitão",
+            "Grade": 3,
+            "Comment": ""
+          },
+          {
+            "$id": "667",
+            "Reviewed": "Bruno Preima",
+            "Grade": 3,
+            "Comment": ""
+          },
+          {
+            "$id": "668",
+            "Reviewed": "Thiago Cerutti",
+            "Grade": 3,
+            "Comment": ""
+          }
+        ],
+        "Comment": "Sprint trivial, sucesso depois de muito tempo, desempenho homogênio de todo mundo"
+      },
+      {
+        "$id": "669",
+        "Reviewer": {
+          "$id": "670",
+          "Name": "Bruno Preima",
+          "Email": "bruno.preima@way2.com.br",
+          "Area": "Desenvolvimento"
+        },
+        "PersonReviews": [
+          {
+            "$id": "671",
+            "Reviewed": "Heitor Belloni",
+            "Grade": 4,
+            "Comment": ""
+          },
+          {
+            "$id": "672",
+            "Reviewed": "Gabriel Leitão",
+            "Grade": 4,
+            "Comment": ""
+          },
+          {
+            "$id": "673",
+            "Reviewed": "Bruno Preima",
+            "Grade": 3,
+            "Comment": ""
+          },
+          {
+            "$id": "674",
+            "Reviewed": "Thiago Cerutti",
+            "Grade": 3,
+            "Comment": ""
+          }
+        ],
+        "Comment": "Talvez falte um pouco de organização em alguns pontos. Acima disso acho que o time deve tomar uma postura um pouco mais agressiva no que diz respeito a engenharia e arquitetura de software. Além disso garantir que as melhorias e definições de padrões sejam comunicadas de forma eficiente aos outros developers."
+      },
+      {
+        "$id": "675",
+        "Reviewer": {
+          "$id": "676",
+          "Name": "Celiano Lavratti",
+          "Email": "celiano.lavratti@way2.com.br",
+          "Area": "Projetos"
+        },
+        "PersonReviews": [
+          {
+            "$id": "677",
+            "Reviewed": "Heitor Belloni",
+            "Grade": 3,
+            "Comment": ""
+          },
+          {
+            "$id": "678",
+            "Reviewed": "Gabriel Leitão",
+            "Grade": 3,
+            "Comment": ""
+          },
+          {
+            "$id": "679",
+            "Reviewed": "Bruno Preima",
+            "Grade": 3,
+            "Comment": ""
+          },
+          {
+            "$id": "680",
+            "Reviewed": "Thiago Cerutti",
+            "Grade": 3,
+            "Comment": ""
+          }
+        ],
+        "Comment": ""
+      },
+      {
+        "$id": "681",
+        "Reviewer": {
+          "$id": "682",
+          "Name": "Thiago Cerutti",
+          "Email": "thiago.cerutti@way2.com.br",
+          "Area": "Desenvolvimento"
+        },
+        "PersonReviews": [
+          {
+            "$id": "683",
+            "Reviewed": "Heitor Belloni",
+            "Grade": 3,
+            "Comment": "Heitor ajudou bastante com o webservice da Celesc."
+          },
+          {
+            "$id": "684",
+            "Reviewed": "Gabriel Leitão",
+            "Grade": 3,
+            "Comment": ""
+          },
+          {
+            "$id": "685",
+            "Reviewed": "Bruno Preima",
+            "Grade": 3,
+            "Comment": ""
+          },
+          {
+            "$id": "686",
+            "Reviewed": "Thiago Cerutti",
+            "Grade": 3,
+            "Comment": "Self-avaliação: me senti meio perdido com a issue de horário de verão, por ser a primeira vez que trabalhei com o projeto de storage, e também por desconhecer o impacto que a implementação causaria. Infelizmente não consegui finalizar essa issue porque a implementação que fiz quebrou alguns testes do Fitnesse (felizmente). Senti que trabalhando remotamente tenho mais foco, menos distração, mas pra essa issue especificamente falhei em decorrência de não saber exatamente o que fazer para resolver o problema, e quais seriam os efeitos da implementação."
+          }
+        ],
+        "Comment": ""
+      },
+      {
+        "$id": "687",
+        "Reviewer": {
+          "$id": "688",
+          "Name": "Marcel de Castilho",
+          "Email": "marcel@way2.com.br",
+          "Area": "Desenvolvimento"
+        },
+        "PersonReviews": [
+          {
+            "$id": "689",
+            "Reviewed": "Heitor Belloni",
+            "Grade": 3,
+            "Comment": ""
+          },
+          {
+            "$id": "690",
+            "Reviewed": "Gabriel Leitão",
+            "Grade": 3,
+            "Comment": ""
+          },
+          {
+            "$id": "691",
+            "Reviewed": "Bruno Preima",
+            "Grade": 3,
+            "Comment": ""
+          },
+          {
+            "$id": "692",
+            "Reviewed": "Thiago Cerutti",
+            "Grade": 3,
+            "Comment": ""
+          }
+        ],
+        "Comment": "Sugiro que o time foque mais nos objetivos do Sprint, priorizando as entregas (sem descuidar da qualidade)."
+      },
+      {
+        "$id": "693",
+        "Reviewer": {
+          "$id": "694",
+          "Name": "Gabriel Leitão",
+          "Email": "gabriel.cardoso@way2.com.br",
+          "Area": "Desenvolvimento"
+        },
+        "PersonReviews": [
+          {
+            "$id": "695",
+            "Reviewed": "Heitor Belloni",
+            "Grade": 4,
+            "Comment": ""
+          },
+          {
+            "$id": "696",
+            "Reviewed": "Gabriel Leitão",
+            "Grade": 3,
+            "Comment": ""
+          },
+          {
+            "$id": "697",
+            "Reviewed": "Bruno Preima",
+            "Grade": 3,
+            "Comment": ""
+          },
+          {
+            "$id": "698",
+            "Reviewed": "Thiago Cerutti",
+            "Grade": 4,
+            "Comment": ""
+          }
+        ],
+        "Comment": ""
+      },
+      {
+        "$id": "699",
+        "Reviewer": {
+          "$id": "700",
+          "Name": "Heloisa Gloria",
+          "Email": "heloisa@way2.com.br",
+          "Area": "Projetos"
+        },
+        "PersonReviews": [
+          {
+            "$id": "701",
+            "Reviewed": "Heitor Belloni",
+            "Grade": 3,
+            "Comment": ""
+          },
+          {
+            "$id": "702",
+            "Reviewed": "Gabriel Leitão",
+            "Grade": 3,
+            "Comment": ""
+          },
+          {
+            "$id": "703",
+            "Reviewed": "Bruno Preima",
+            "Grade": 3,
+            "Comment": ""
+          },
+          {
+            "$id": "704",
+            "Reviewed": "Thiago Cerutti",
+            "Grade": 3,
+            "Comment": ""
+          }
+        ],
+        "Comment": ""
       }
     ]
   }
