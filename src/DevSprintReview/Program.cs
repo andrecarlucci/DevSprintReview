@@ -52,7 +52,7 @@ namespace DevSprintReview {
 
             var report = new Report(sprint, pessoas);
             report.Calcule();
-            Console.WriteLine(report);
+            Console.WriteLine(report.GetReviewersList());
             sprints.Save();
 
             if (!sendmail) {

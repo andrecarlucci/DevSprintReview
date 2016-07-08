@@ -25,6 +25,18 @@ namespace DevSprintReview {
             _reviewed = reviewedNames.Select(n => _pessoas.First(p => p.Name == n)).ToList();
         }
 
+        public string GetReviewersList() {
+            var sb = new StringBuilder();
+            foreach (var reviewer in _reviewers.Values.OrderBy(x => x.Area).ThenBy(x => x.Name)) {
+                sb.AppendLine($"{reviewer.Name,-20} Area: {reviewer.Area,-15} Email: {reviewer.Email}");
+            }
+            sb.AppendLine("----------------------------------------------------------");
+            foreach (var reviewer in _reviewers.Values.OrderBy(x => x.Area).ThenBy(x => x.Name)) {
+                sb.Append(reviewer.Email + ";");
+            }
+            return sb.ToString();
+        }
+
         public IndividualReport GenerateIndividualReport(Person person) {
             var sb = new StringBuilder();
             var reviewedName = person.Name;
@@ -51,13 +63,7 @@ namespace DevSprintReview {
             var sb = new StringBuilder();
             sb.AppendLine("Reviewers");
             sb.AppendLine("----------------------------------------------------------");
-            foreach (var reviewer in _reviewers.Values.OrderBy(x => x.Area).ThenBy(x => x.Name)) {
-                sb.AppendLine($"{reviewer.Name,-20} Area: {reviewer.Area,-15} Email: {reviewer.Email}");
-            }
-            sb.AppendLine("----------------------------------------------------------");
-            foreach (var reviewer in _reviewers.Values.OrderBy(x => x.Area).ThenBy(x => x.Name)) {
-                sb.Append(reviewer.Email + ";");
-            }
+            sb.AppendLine(GetReviewersList());
             sb.AppendLine();
             sb.AppendLine("----------------------------------------------------------");
             foreach (var reviewed in _reviewed) {
